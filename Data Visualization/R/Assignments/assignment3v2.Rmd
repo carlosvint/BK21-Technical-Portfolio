@@ -1,0 +1,93 @@
+---
+# title: "essay, one-paged-note, homework"
+# subtitle: "subtitle"
+# author: "심민규 `mksim@seoultech.ac.kr`"
+# date: "Lastly updated on `r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    highlight: haddock
+    keep_tex: yes
+    includes:
+      in_header: latex_support/latex-topmatter_pdf.tex
+    # toc: yes # table of contents yes/no/True/False
+    # toc_depth: 2 # toc depth 1 or 2 recommended
+    number_sections: yes # yes/no/True/False
+  html_document:
+    toc: yes
+    toc_depth: '1'
+    df_print: paged
+monofont: Courier New # Consolas or Courier New
+smaller: yes
+classoption: a4paper # letter or a4paper
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=1.17}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+<!-- \begin{center} -->
+<!-- \vspace{100pt} -->
+<!-- \includegraphics[height=0.3in]{latex_support/logo_ds.png}  -->
+<!-- \end{center} -->
+
+\begin{center}
+\begin{large}
+\textbf{Relationship between the age of the plane and its delay time}
+\end{large}
+\end{center}
+
+
+This report continues the investigation on the relationship between an airplane's age and its arrival/departure delay time. This time I grouped the planes by decade and a delay range and was also unable to find any relationship between a plane's age and its delay time.
+
+___________________________________________________________________________________________
+
+\underline{\textbf{Dataset}}
+
+The dataset used is called 'nycflights13' and has information on more than 300k flights including date, delay time, carrier,  flight number, etc. The dataset also includes metadata on airlines, airports, weather and planes.  
+
+
+\underline{\textbf{Methodology}}
+
+For each flight, the plane manufacture year and manufactured decade was annotated. Only positive departure and arrival delay times were considered (negative values represent early departures/arrivals). Six arrival and departure ranges were determined as described in Table 1. 
+
+
+\underline{\textbf{Results}}
+
+I present the results for the percentage of planes manufactured in a specific decade for distinct delay ranges. The most common delay for planes of all decades is less than 15 minutes. As shown in Table 1, planes from the 60s are as likely to be 30 to 60 minutes late as planes manufactured in the 2000s. I only present the results for arrival delay as there is no discernible difference with departure delay. 
+
+\vspace{5mm}
+
+\emph{\textbf{Table 1.} Percentage of delayed planes during arrival by decade.}
+
+|Arrival Delay        |1950s|1960s|1970s|1980s|1990s|2000s|2010s|
+|:--------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Less than 15 min     |36.00%|	35.48%|	46.57%|	41.95%|	41.09%|	38.38%|	42.09%|
+|Between 15 to 30 min |14.00%|	25.81%|	20.59%|	20.39%|	21.13%|	20.14%|	20.99%|
+|Between 30 to 60 min |18.00%|	19.35%|	14.22%|	16.85%|	17.80%|	18.91%|	17.57%|
+|Between 1 to 3 hours |28.00%|	12.90%|	15.93%|	17.46%|	17.00%|	19.43%|	17.08%|
+|Between 3 to 10 hours|4.00% |6.45%   |	2.45% |	3.14% |	2.96% |	3.13% |	2.26% |
+|More than 10 hours   |0.00% |0.00%   |	0.25% |	0.21% |	0.04% |	0.01% |	0.01% |
+
+Again I could not find any evidence suggesting a relationship between a plane's age and it's departure/arrival delay time. We continue to suggest that delay time for flights departing NYC in 2013 are influenced by other variables except for a plane's age.
+
+___________________________________________________________________________________________
+\begin{footnotesize}
+Wickham H (2022). nycflights13: Flights that Departed NYC in 2013. R package version 1.0.2, https://github.com/hadley/nycflights13.
+\end{footnotesize}
+
+
+
+\newpage
+
+```{r, echo=TRUE, results='hide'}
+"Written by Carlos Vintimilla"
+```
+
+

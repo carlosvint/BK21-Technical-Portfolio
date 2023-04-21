@@ -1,0 +1,2930 @@
+Class,Genes
+Endocrine,"CYP17A1, CYP17, P450C17"
+Endocrine,"CYP17A1, CYP17, P450C17"
+Metabolic,"HADH2, ERAB"
+Metabolic,ACADSB
+Metabolic,HSD3B2
+Metabolic,"HADHSC, SCHAD"
+Metabolic,"MCCC1, MCCA"
+Metabolic,"MCCC2, MCCB"
+Metabolic,AUH
+Metabolic,"OPA3, MGA3"
+multiple,CUL7
+Metabolic,TPMT
+multiple,"FGD1, FGDY, AAS"
+Immunological,HLA-B
+multiple,"EDNRB, HSCR2, ABCDS"
+Metabolic,MTP
+Metabolic,"APOB, FLDB"
+Skeletal,"SOX9, CMD1, SRA1"
+Hematological,CAT
+Cancer,MDM2
+multiple,"AAAS, AAA"
+Skeletal,"C7orf2, ACHP, LMBR1"
+Bone,COL2A1
+Bone,"SLC26A2, DTD, DTDST, D5S1708, EDM4"
+Skeletal,"FGFR3, ACH"
+Ophthamological,"CNGA3, CNG3, ACHM2"
+Ophthamological,"CNGB3, ACHM3"
+Ophthamological,"GNAT2, ACHM4"
+Endocrine,"IGFALS, ALS"
+Cardiovascular,"KCNH2, LQT2, HERG"
+multiple,"GLI3, PAPA, PAPB, ACLS"
+Skeletal,"IHH, BDA1"
+Dermatological,"SLC39A4, ZIP4"
+Dermatological,"ATP2A2, ATP2B, DAR"
+Endocrine,"GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO"
+Endocrine,SSTR5
+Skeletal,"GDF5, CDMP1"
+Skeletal,"NPR2, ANPRB, AMDM"
+Metabolic,"ACADL, LCAD"
+Metabolic,"ACADM, MCAD"
+Metabolic,"ACADS, SCAD"
+Cancer,EGFR
+Cancer,BRAF
+Cancer,"ERBB2, NGL, NEU, HER2"
+Cancer,"PRKN, PARK2, PDJ"
+Cancer,"PRKN, PARK2, PDJ"
+Cancer,"APC, GS, FPC"
+Cancer,MUTYH
+Cancer,"PLAG1, SGPA, PSA"
+Cancer,"APC, GS, FPC"
+Cancer,"APC, GS, FPC"
+Immunological,ADA
+Metabolic,ADSL
+Endocrine,"APM1, GBP28"
+Cancer,MEN1
+Cancer,"TP53, P53, LFS1"
+Endocrine,"CYP11B1, P450C11, FHI"
+Endocrine,"CYP21A2, CYP21, CA21H"
+Endocrine,POR
+Endocrine,"DAX1, AHC, AHX, NROB1"
+Endocrine,"FTZF1, FTZ1, SF1"
+Cancer,"PRKAR1A, TSE1, CNC1, CAR"
+Endocrine,TBS19
+Neurological,"ABCD1, ALD, AMN"
+Neurological,"PEX10, NALD"
+Neurological,"PEX13, ZWS, NALD"
+Neurological,"PEX1, ZWS1"
+Neurological,PEX26
+Neurological,"PXR1, PEX5, PTS1R"
+Metabolic,"ABCD1, ALD, AMN"
+Hematological,GCNT2
+Hematological,GCNT2
+multiple,"TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS"
+Neurological,"PER2, FASPS, KIAA0347"
+Hematological,FGA
+Hematological,FGB
+Hematological,"IGHM, MU"
+Hematological,"IGLL1, IGO, IGL5, VPREB2"
+Hematological,"LRRC8, KIAA1437"
+Hematological,"BTK, AGMX1, IMD1, XLA, AT"
+Metabolic,"GATM, AGAT"
+Neurological,"SLC12A6, KCC3A, KCC3B, KCC3, ACCPN"
+Metabolic,"ATIC, PURH, AICAR"
+Immunological,"KIR3DL1, NKAT3, NKB1, AMB11, KIR3DS1"
+Immunological,IFNG
+Immunological,"CXCL12, SDF1"
+multiple,"JAG1, AGS, AHD"
+Dermatological,"OCA2, P, PED, D15S12, BOCA"
+Dermatological,"OCA2, P, PED, D15S12, BOCA"
+Dermatological,TYR
+Dermatological,TYR
+Dermatological,"OCA2, P, PED, D15S12, BOCA"
+Dermatological,"TYRP1, CAS2, GP75"
+Unclassified,HTR2A
+Metabolic,ALDH2
+Unclassified,GABRA2
+Metabolic,ALDOA
+Endocrine,CYP11B2
+Endocrine,"CYP11B1, P450C11, FHI"
+multiple,GFAP
+multiple,"NDUFV1, UQOR1"
+Metabolic,"HGD, AKU"
+Neurological,"SLC16A2, DXS128, XPCT"
+Immunological,"IL13, ALRH"
+Dermatological,"HR, AU"
+Neurological,"POLG, POLG1, POLGA, PEO"
+Respiratory,"SERPINA3, AACT, ACT"
+Muscular,ACTN3
+Metabolic,ACAT1
+Metabolic,AMACR
+Hematological,"ATRX, XH2, XNP, MRXS3, SHS"
+Hematological,"ATRX, XH2, XNP, MRXS3, SHS"
+Renal,"COL4A5, ATS, ASLN"
+Renal,COL4A3
+Renal,COL4A4
+Neurological,"ALMS1, ALSS, KIAA0328"
+Neurological,"ATP1A2, FHM2, MHP2"
+Cancer,"ASPCR1, RCC17, ASPL, ASPS"
+Neurological,"APP, AAA, CVAP, AD1"
+Neurological,"APOE, AD2"
+Neurological,"PSEN2, AD4, STM2"
+Neurological,"APBB2, FE65L1"
+Neurological,NOS3
+Neurological,"PLAU, URK"
+Neurological,"ACE, DCP1, ACE1"
+Neurological,MPO
+Neurological,"PACIP1, PAXIP1L, PTIP"
+Neurological,A2M
+Neurological,"BLMH, BMH"
+Neurological,"PSEN1, AD3"
+Neurological,"PSEN1, AD3"
+Neurological,"PSEN1, AD3"
+Bone,ENAM
+Bone,"AMELX, AMG, AIH1, AMGX"
+Bone,"DLX3, TDO"
+Bone,ENAM
+Bone,"KLK4, EMSP1, PRSS17"
+Neurological,"SIAT9, ST3GALV"
+Hematological,AMPD3
+Neurological,"TTR, PALB"
+Neurological,APOA1
+Neurological,"APP, AAA, CVAP, AD1"
+Neurological,GSN
+Neurological,FGA
+Neurological,LYZ
+Neurological,"TTR, PALB"
+Neurological,"VAPB, VAPC, ALS8"
+Neurological,"SOD1, ALS1"
+Neurological,"ALS2, ALSJ, PLSJ, IAHSP"
+Neurological,DCTN1
+Neurological,NEFH
+Neurological,PRPH
+Hematological,ALB
+Unclassified,MC1R
+Gastrointestinal,"SARA2, SAR1B, CMRD"
+Endocrine,"AR, DHTR, TFM, SBMA, KD, SMAX1"
+Hematological,"CDAN1, CDA1"
+Hematological,"RPS19, DBA"
+Hematological,"PKLR, PK1"
+Hematological,"NT5C3, UMPH1, PSN1"
+Hematological,"RHAG, RH50A"
+Hematological,NRAMP2
+Hematological,SPTB
+Hematological,"ALAS2, ANH1, ASB"
+Hematological,"ABCB7, ABC7, ASAT"
+Unclassified,COL3A1
+Developmental,"MECP2, RTT, PPMX, MRX16, MRX79"
+Developmental,"UBE3A, ANCR"
+Immunological,"C1NH, HAE1, HAE2, SERPING1"
+Immunological,XPNPEP2
+Endocrine,MEN1
+Endocrine,"ACE, DCP1, ACE1"
+Hematological,HP
+Ophthamological,"PAX6, AN2, MGDA"
+Connective tissue,HLA-B
+Ophthamological,"SOX2, ANOP3"
+Nutritional,HTR2A
+Ophthamological,"EYA1, BOR"
+Ophthamological,"FOXE3, FKHL12, ASMD"
+Ophthamological,"FOXC1, FKHL7, FREAC3"
+Ophthamological,PITX3
+Hematological,AT3
+Unclassified,POR
+Psychiatric,"SLC6A4, HTT, OCD1"
+Cardiovascular,"FBN1, MFS1, WMS"
+Connective tissue,"FGFR2, BEK, CFD1, JWS"
+Gastrointestinal,FGF10
+Hematological,IFNG
+Hematological,"TERC, TRC3, TR"
+Hematological,"TERT, TCS1, EST2"
+Unclassified,"BCHE, CHE1"
+Metabolic,APOA1
+Metabolic,APOA2
+Metabolic,APOC3
+Metabolic,APOH
+Bone,"HSD11B2, HSD11K"
+Unclassified,"AQP1, CHIP28, CO"
+Gastrointestinal,VPS33B
+Metabolic,ARG1
+Metabolic,ASL
+Metabolic,"CYP19A1, CYP19, ARO"
+Metabolic,DDC
+Cardiovascular,"RYR2, VTSIP"
+Cardiovascular,"DSP, KPPS2, PPKS2"
+Cardiovascular,"PKP2, ARVD9"
+Developmental,"TPM2, TMSB, AMCD1, DA1"
+Developmental,"TNNI2, AMCD2B, DA2B, FSSV"
+Bone,"WISP3, PPAC, PPD"
+Developmental,"TNNT3, AMCD2B, DA2B, FSSV"
+Metabolic,AGA
+Psychiatric,NLGN3
+Psychiatric,"NLGN4, KIAA1260, AUTSX2"
+Respiratory,"PHF11, NYREN34"
+Respiratory,"MS4A2, FCER1B"
+Respiratory,ALOX5
+Respiratory,ADRB2
+Respiratory,"PTGDR, AS1"
+Respiratory,"GPR154, GPRA, VRR1, PGR14"
+Respiratory,HNMT
+Respiratory,"IL12B, NKSF2"
+Respiratory,"IL13, ALRH"
+Respiratory,"PLA2G7, PAFAH"
+Respiratory,"SCGB3A2, UGRP1"
+Respiratory,"TNF, TNFA"
+Respiratory,"UGB, CC10, CCSP, SCGB1A1"
+Neurological,"ATCAY, CLAC, KIAA1872"
+Neurological,"APTX, AOA, AOA1"
+Neurological,"CACNB4, EJM"
+Neurological,"SETX, SCAR1, AOA2"
+Immunological,"ATM, ATA, AT1"
+Immunological,"MRE11A, MRE11, ATLD"
+Neurological,"TTPA, TTP1, AVED"
+Connective tissue,"SLC26A2, DTD, DTDST, D5S1708, EDM4"
+Connective tissue,"FLNB, SCT, AOI"
+Neurological,"HOXA1, HOX1F, BSAS"
+Cardiovascular,ALOX5
+Immunological,"SPINK5, LEKTI"
+Immunological,"HAVCR1, HAVCR"
+Immunological,"PLA2G7, PAFAH"
+Immunological,"SELP, GRMP"
+Immunological,"IL4R, IL4RA"
+Hematological,TF
+Cardiovascular,"KCNE2, MIRP1, LQT6"
+Cardiovascular,"KCNQ1, KCNA9, LQT1, KVLQT1, ATFB1"
+Cardiovascular,GATA4
+Cardiovascular,"MYH6, ASD3, MYHCA"
+Cardiovascular,"NKX2E, CSX"
+Dermatological,"HR, AU"
+Cardiovascular,"NKX2E, CSX"
+Cardiovascular,"GJA1, CX43, ODDD, SDTY3, ODOD"
+Cardiovascular,"CRELD1, AVSD2"
+Cardiovascular,"CRELD1, AVSD2"
+Psychiatric,"DRD5, DRD1B, DRD1L2"
+Psychiatric,GLO1
+Psychiatric,"MECP2, RTT, PPMX, MRX16, MRX79"
+Psychiatric,NLGN3
+Psychiatric,"NLGN4, KIAA1260, AUTSX2"
+Immunological,"TNFRSF6, APT1, FAS, CD95, ALPS1A"
+Immunological,"TNFRSF6, APT1, FAS, CD95, ALPS1A"
+Immunological,"CASP10, MCH4, ALPS2"
+Immunological,"CASP8, MCH5"
+Immunological,"AIRE, APECED"
+Endocrine,"TG, AITD3"
+Psychiatric,DRD4
+Ophthamological,"FOXC1, FKHL7, FREAC3"
+Endocrine,"USP9Y, DFFRY"
+Endocrine,"SYCP3, SCP3, COR1"
+Endocrine,"FOXE1, FKHL15, TITF2, TTF2"
+Unclassified,"PTEN, MMAC1"
+Unclassified,"PTEN, MMAC1"
+multiple,BBS1
+multiple,"ARL6, BBS3"
+multiple,BBS7
+multiple,BBS2
+multiple,"ARL6, BBS3"
+multiple,BBS4
+multiple,BBS5
+multiple,"MKKS, HMCS, KMS, MKS, BBS6"
+multiple,"TTC8, BBS8"
+Immunological,"TAPBP, TPSN"
+Immunological,"TAP2, ABCB3, PSF2, RING11"
+Immunological,"MHC2TA, C2TA"
+Immunological,RFX5
+Immunological,RFXAP
+Immunological,RFX5
+multiple,"TAZ, EFE2, BTHS, CMD3A, LVNCX"
+multiple,"GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID"
+multiple,"SLC12A1, NKCC2"
+multiple,"KCNJ1, ROMK1"
+multiple,CLCNKB
+multiple,BSND
+multiple,CLCNKA
+multiple,CLCNKB
+Cancer,"RASA1, GAP, CMAVM, PKWS"
+Cancer,PTCH2
+Cancer,"PTCH, NBCCS, BCNS, HPE7"
+Cancer,"SMOH, SMO"
+multiple,"PTCH, NBCCS, BCNS, HPE7"
+Neurological,FTL
+Neurological,SLC19A3
+Cancer,"BCL7A, BCL7"
+Immunological,IFNGR1
+multiple,"FGFR2, BEK, CFD1, JWS"
+Muscular,"DMD, BMD"
+Muscular,MYF6
+multiple,"CDKN1C, KIP2, BWS"
+multiple,"H19, D11S813E, ASM1, BWS"
+multiple,"KCNQ10T1, LIT1"
+multiple,"NSD1, ARA267, STO"
+Unclassified,"NQO1, DIA4, NMOR1"
+Hematological,GP1BA
+Hematological,GP1BB
+Hematological,GP9
+Unclassified,HLA-DPB1
+Unclassified,ADRB2
+Metabolic,"UPB1, BUP1"
+Muscular,"COL6A1, OPLL"
+Muscular,COL6A2
+Muscular,COL6A3
+Ophthamological,"CYP4V2, BCD"
+Gastrointestinal,"SLC10A2, NTCP2"
+Metabolic,BTD
+Psychiatric,"XBP1, XBP2"
+Dermatological,"FLCN, BHD"
+Cancer,"FGFR3, ACH"
+Cancer,"KRAS2, RASK2"
+Cancer,RB1
+Cancer,HRAS
+multiple,"CARD15, NOD2, IBD1, CD, ACUG, PSORAS1"
+Hematological,TBXA2R
+Hematological,"P2RX1, P2X1"
+multiple,"FOXL2, BPES, BPES1, PFRK, POF3"
+multiple,"FOXL2, BPES, BPES1, PFRK, POF3"
+Ophthamological,"DRD5, DRD1B, DRD1L2"
+Hematological,ABO
+Hematological,"LU, AU, BCAM"
+Hematological,"AQP1, CHIP28, CO"
+Hematological,DAF
+Hematological,"SLC4A1, AE1, EPB3"
+Hematological,"ART4, DO"
+Hematological,"GYPC, GE, GPC"
+Hematological,AQP3
+Hematological,GCNT2
+Hematological,"CD44, MDU2, MDU3, MIC4"
+Hematological,KEL
+Hematological,"SLC14A1, JK, UTE, UT1"
+Hematological,"CR1, C3BR"
+Hematological,LW
+Hematological,"FUT3, LE"
+Hematological,"LU, AU, BCAM"
+Hematological,"GYPA, MN, GPA"
+Hematological,BSG
+Hematological,"A4GALT, PK"
+Hematological,"B3GALT3, GLCT3, P"
+Hematological,RHCE
+Hematological,"GYPB, SS, MNS"
+Hematological,"SLC4A1, AE1, EPB3"
+Hematological,"SLC4A1, AE1, EPB3"
+Hematological,XG
+Hematological,"ACHE, YT"
+Cancer,"RECQL3, RECQ2, BLM, BS"
+Ophthamological,"OPN1LW, RCP, CBP, CBBM"
+Ophthamological,"OPN1MW, GCP, CBD, CBBM"
+Hematological,"FUT1, H, HH"
+Hematological,"FUT2, SE"
+Bone,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+multiple,"PHF6, BFLS"
+Neurological,"HOXA1, HOX1F, BSAS"
+Ophthamological,RLBP1
+Skeletal,"IHH, BDA1"
+Skeletal,"BMPR1B, ALK6"
+Skeletal,"ROR2, BDB1, BDB, NTRKR2"
+Skeletal,"GDF5, CDMP1"
+Skeletal,"HOXD13, HOX4I, SPD"
+Skeletal,"HOXD13, HOX4I, SPD"
+Ophthamological,"R9AP, RGS9, PERRS"
+Ophthamological,"RGS9, PERRS"
+Neurological,"EYA1, BOR"
+Neurological,"EYA1, BOR"
+Neurological,"EYA1, BOR"
+Cancer,"CHEK2, RAD53, CHK2, CDS1, LFS2"
+Cancer,PIK3CA
+Cancer,"PPM1D, WIP1"
+Cancer,"SLC22A1L, BWSCR1A, IMPT1"
+Cancer,"TP53, P53, LFS1"
+Cancer,"BRCA1, PSCP"
+Cancer,"BRCA2, FANCD1"
+Cancer,TSG101
+Cancer,"BRIP1, BACH1, FANCJ"
+Cancer,"RAD54L, HR54, HRAD54"
+Cancer,"CDH1, UVO"
+Cancer,"BRCA2, FANCD1"
+Cancer,"AR, DHTR, TFM, SBMA, KD, SMAX1"
+Cancer,"KRAS2, RASK2"
+Cancer,"RB1CC1, CC1, KIAA0203"
+Cancer,PHB
+Cancer,"ATM, ATA, AT1"
+Cancer,BARD1
+Cancer,"CHEK2, RAD53, CHK2, CDS1, LFS2"
+Cancer,"RAD51A, RECA"
+Cancer,XRCC3
+Cancer,"BRCA1, PSCP"
+Muscular,"ATP2A1, SERCA1"
+Unclassified,PLOD2
+Cardiovascular,"SCN5A, LQT3, IVF, HB1, SSS1"
+Unclassified,MAOA
+Cancer,MYC
+multiple,"LEMD3, MAN1"
+Ophthamological,"RDS, RP7, PRPH2, PRPH, AVMD, AOFMD"
+Immunological,C1QA
+Immunological,C1QB
+Immunological,C1QG
+Immunological,C1S
+Immunological,C2
+Immunological,IF
+Immunological,C3
+Immunological,"C4A, C4S"
+Immunological,"C4B, C4F"
+Immunological,C6
+Immunological,C7
+Immunological,C8B
+Immunological,C9
+Immunological,C9
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+Cancer,"MLH1, COCA2, HNPCC2"
+Connective tissue,COL1A1
+Bone,"FGF23, ADHR, HPDR2, PHPTC"
+Bone,GALNT3
+Skeletal,"SOX9, CMD1, SRA1"
+Skeletal,"SOX9, CMD1, SRA1"
+Skeletal,"PRG4, CACP, MSF, SZP, HAPO"
+Skeletal,"TGFB1, DPD1, CED"
+Metabolic,ASPA
+Cancer,FGFR4
+Cancer,"MSH6, GTBP, HNPCC5"
+Cardiovascular,"RASA1, GAP, CMAVM, PKWS"
+Metabolic,CPS1
+Metabolic,"PMM2, CDG1"
+Metabolic,"MPI, PMI1"
+Metabolic,"MGAT2, CDGS2"
+Hematological,"CPN1, SCPN, CPN"
+Cancer,MEN1
+Cancer,"SDHD, PGL1"
+Cardiovascular,SCO2
+Cardiovascular,"MYL3, CMH8"
+Cardiovascular,ACTC
+Cardiovascular,"MYH7, CMH1, MPD1"
+Cardiovascular,"LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B"
+Cardiovascular,"TNNT2, CMH2, CMD1D"
+Cardiovascular,"TTN, CMD1G"
+Cardiovascular,"DES, CMD1I"
+Cardiovascular,"EYA4, DFNA10, CMD1J"
+Cardiovascular,"SGCD, SGD, LGMD2F, CMD1L"
+Cardiovascular,"CSRP3, CRP3, CLP, CMD1M"
+Cardiovascular,"TCAP, LGMD2G, CMD1N"
+Cardiovascular,"ABCC9, SUR2"
+Cardiovascular,"DMD, BMD"
+Cardiovascular,"MYL2, CMH10"
+Cardiovascular,"MYH7, CMH1, MPD1"
+Cardiovascular,ACTC
+Cardiovascular,"CAV3, LGMD1C"
+Cardiovascular,"MYH6, ASD3, MYHCA"
+Cardiovascular,TNNC1
+Cardiovascular,"TNNT2, CMH2, CMD1D"
+Cardiovascular,"TPM1, CMH3"
+Cardiovascular,TNNI3
+Cardiovascular,"MYBPC3, CMH4"
+Cardiovascular,"TTN, CMD1G, TMD, LGMD2J"
+Cardiovascular,TNNI3
+Cardiovascular,COX15
+Cardiovascular,"MYL2, CMH10"
+Cardiovascular,"MYLK2, MLCK"
+Cardiovascular,"PRKAG2, WPWS"
+Cardiovascular,"PLN, PLB"
+Cardiovascular,"TAZ, EFE2, BTHS, CMD3A, LVNCX"
+multiple,"PRKAR1A, TSE1, CNC1, CAR"
+multiple,MYH8
+Metabolic,"SLC25A20, CACT, CAC"
+Metabolic,"SLC22A5, OCTN2, CDSP, SCD"
+Unclassified,"TTR, PALB"
+Skeletal,"RMRP, RMRPR, CHH"
+Ophthamological,"CRYAA, CRYA1"
+Ophthamological,"CRYBB2, CRYB2"
+Ophthamological,PITX3
+Ophthamological,"BFSP2, CP49, CP47"
+Ophthamological,"CRYAA, CRYA1"
+Ophthamological,"PAX6, AN2, MGDA"
+Ophthamological,"CRYBA1, CRYB1"
+Ophthamological,"CRYGC, CRYG3, CCL"
+Ophthamological,"LIM2, MP19"
+Ophthamological,"CRYGD, CRYG4"
+Ophthamological,"BFSP2, CP49, CP47"
+Ophthamological,"HSF4, CTM"
+Ophthamological,"HSF4, CTM"
+Ophthamological,"MIP, AQP0"
+Ophthamological,"CRYAB, CRYA2, CTPP2"
+Ophthamological,CRYBB1
+Ophthamological,"CRYGD, CRYG4"
+Ophthamological,"CRYBB2, CRYB2"
+Ophthamological,"CRYGC, CRYG3, CCL"
+Ophthamological,"CRYAA, CRYA1"
+Ophthamological,"GJA8, CX50, CAE1"
+Ophthamological,"GJA3, CX46, CZP3, CAE3"
+Cardiovascular,"CCM1, CAM, KRIT1"
+Immunological,"CD59, MIC11"
+Immunological,CD8A
+Muscular,"RYR1, MHS, CCO"
+Muscular,"MYH7, CMH1, MPD1"
+Respiratory,GDNF
+Respiratory,BDNF
+Respiratory,EDN3
+Respiratory,"PMX2B, NBPHOX, PHOX2B"
+Respiratory,"RET, MEN2A"
+Neurological,CP
+Neurological,"CACNA1A, CACNL1A4, SCA6"
+Neurological,"VLDLR, VLDLRCH"
+Neurological,"ABCA1, ABC1, HDLDT1, TGD"
+Neurological,CST3
+Cardiovascular,"NOTCH3, CADASIL, CASIL"
+Neurological,"CCM1, CAM, KRIT1"
+Neurological,"C7orf22, CCM2, MGC4067"
+Neurological,"PDCD10, TFAR15, CCM3"
+Neurological,"SNAP29, CEDNIK"
+multiple,"ERCC2, EM9"
+multiple,"ERCC5, XPG"
+multiple,"ERCC6, CKN2, COFS, CSB"
+Metabolic,"CYP27A1, CYP27, CTX"
+Unclassified,"SERPINA3, AACT, ACT"
+Neurological,"PPT1, CLN1"
+Neurological,CLN2
+Neurological,"CLN3, BTS"
+Neurological,CLN5
+Neurological,CLN6
+Neurological,"CLN8, EPMR"
+Neurological,"PPT1, CLN1"
+Cancer,"FGFR3, ACH"
+Metabolic,CETP
+Metabolic,"ABHD5, CGI58, IECN2, NCIE2"
+Neurological,"HSPB1, HSP27, CMT2F"
+Neurological,"MPZ, CMT1B, CMTDI3, CHM, DSS"
+Neurological,DNM2
+Neurological,"HOXD10, HOX4D"
+Neurological,"GDAP1, CMT4A, CMT2K, CMT2G"
+Neurological,"PMP22, CMT1A, CMT1E, DSS"
+Neurological,"MPZ, CMT1B, CMTDI3, CHM, DSS"
+Neurological,"LITAF, CMT1C"
+Neurological,"EGR2, KROX20"
+Neurological,"PMP22, CMT1A, CMT1E, DSS"
+Neurological,"NEFL, CMT2E, CMT1F"
+Neurological,"KIF1B, CMT2A, CMT2A1"
+Neurological,"MFN2, KIAA0214, CMT2A2"
+Neurological,"RAB7, CMT2B, PSN"
+Neurological,"GARS, SMAD1, CMT2D"
+Neurological,"NEFL, CMT2E, CMT1F"
+Neurological,"GDAP1, CMT4A, CMT2K, CMT2G"
+Neurological,"MPZ, CMT1B, CMTDI3, CHM, DSS"
+Neurological,"MPZ, CMT1B, CMTDI3, CHM, DSS"
+Neurological,"GDAP1, CMT4A, CMT2K, CMT2G"
+Neurological,"GDAP1, CMT4A, CMT2K, CMT2G"
+Neurological,"MTMR2, CMT4B1"
+Neurological,"SBF2, MTMR13, CMT4B2"
+Neurological,"SBF2, MTMR13, CMT4B2"
+Neurological,KIAA1985
+Neurological,"NDRG1, HMSNL, CMT4D"
+Neurological,"GJB1, CX32, CMTX1"
+multiple,CHD7
+multiple,"TFAP2B, CHAR"
+multiple,"CHS1, LYST"
+Unclassified,"SH3BP2, CRPM"
+Developmental,NSDHL
+Metabolic,CHIT
+Gastrointestinal,"SLC26A3, DRA, CLD"
+Gastrointestinal,"ABCB4, PGY3, MDR3"
+Gastrointestinal,"ATP8B1, FIC1, BRIC, PFIC1"
+Gastrointestinal,"ABCB4, PGY3, MDR3"
+Gastrointestinal,"ATP8B1, FIC1, BRIC, PFIC1"
+Gastrointestinal,"ABCB11, BSEP, SPGP, PFIC2"
+Gastrointestinal,"ABCB4, PGY3, MDR3"
+Gastrointestinal,"HSD3B7, PFIC4"
+Metabolic,LIPA
+Connective tissue,"ANKH, HANK, ANK, CMDJ, CCAL2, CPPDD"
+Skeletal,"GDF5, CDMP1"
+Connective tissue,"GNPAT, DHAPAT"
+Connective tissue,"EBP, CDPX2, CPXD, CPX"
+Connective tissue,"ARSE, CDPX1, CDPXR"
+Cancer,EXT1
+Cancer,CSMF
+Cancer,"EWSR1, EWS"
+Neurological,"TITF1, NKX2A, TTF1"
+Neurological,"VPS13A, CHAC"
+multiple,"TITF1, NKX2A, TTF1"
+Ophthamological,"CHM, TCD"
+multiple,"PSAP2, PROSAP2, KIAA1650"
+Immunological,CYBA
+Immunological,NCF1
+Immunological,NCF2
+Immunological,"CYBB, CGD"
+Immunological,"MBL2, MBL, MBP1"
+multiple,"ATRX, XH2, XNP, MRXS3, SHS"
+Metabolic,"LPL, LIPD"
+Gastrointestinal,"SARA2, SAR1B, CMRD"
+Gastrointestinal,"SARA2, SAR1B, CMRD"
+Respiratory,"DNAI1, CILD1, ICS, PCD"
+Respiratory,"DNAH5, HL1, PCD, CILD3"
+multiple,"CIAS1, C1orf7, FCU, FCAS"
+Gastrointestinal,KRT18
+Gastrointestinal,KRT8
+Gastrointestinal,KRT18
+Gastrointestinal,KRT8
+Gastrointestinal,"CIRH1A, NAIC, TEX292, KIAA1988"
+Metabolic,ASS
+Metabolic,"SLC25A13, CTLN2"
+Metabolic,"SLC25A13, CTLN2"
+Developmental,"HVEC, PVRL1, PVRR1, PRR1"
+Developmental,"MSX1, HOX7, HYD1, OFC5"
+Developmental,"TBX22, CPX"
+Skeletal,"RUNX2, CBFA1, PEBP2A1, AML3"
+Ophthamological,"NDP, ND"
+multiple,"ERCC8, CKN1, CSA"
+multiple,"ERCC6, CKN2, COFS, CSB"
+Metabolic,"CYP2D@, CYP2D, P450C2D"
+multiple,"RPS6KA3, RSK2, MRX19"
+multiple,COH1
+Unclassified,"ABCB1, PGY1, MDR1"
+Immunological,"CIAS1, C1orf7, FCU, FCAS"
+multiple,"CRLF1, CISS"
+Ophthamological,"PAX6, AN2, MGDA"
+Ophthamological,"SHH, HPE3, HLP3, SMMCI"
+Cancer,RAD54B
+Cancer,"RAD54L, HR54, HRAD54"
+Cancer,BCL10
+Cancer,"PTPN12, PTPG1"
+Cancer,"TGFBR2, HNPCC6"
+Cancer,"SRC, ASV, SRC1"
+Cancer,"MLH3, HNPCC7"
+Cancer,"PTPRJ, DEP1"
+Cancer,ODC1
+Gastrointestinal,"RET, MEN2A"
+Ophthamological,"OPN1MW, GCP, CBD, CBBM"
+Ophthamological,"OPN1LW, RCP, CBP, CBBM"
+Ophthamological,"OPN1SW, BCP, CBT"
+Cancer,MUTYH
+Cancer,AXIN2
+Cancer,"BUB1B, BUBR1"
+Cancer,EP300
+Cancer,"PDGFRL, PDGRL, PRLTS"
+Cancer,PIK3CA
+Cancer,"TP53, P53, LFS1"
+Cancer,"APC, GS, FPC"
+Cancer,BAX
+Cancer,CTNNB1
+Cancer,DCC
+Cancer,MCC
+Cancer,NRAS
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+Cancer,"MLH1, COCA2, HNPCC2"
+Cancer,"PMS1, PMSL1, HNPCC3"
+Cancer,"PMS2, PMSL2, HNPCC4"
+Cancer,"MSH6, GTBP, HNPCC5"
+Cancer,"TGFBR2, HNPCC6"
+Cancer,"FGFR3, ACH"
+Cancer,"FLCN, BHD"
+Cancer,"MLH3, HNPCC7"
+Cancer,BRAF
+Cancer,DLC1
+Cancer,"PLA2G2A, PLA2B, PLA2L, MOM1"
+Cancer,"CCND1, PRAD1, BCL1"
+Cancer,BUB1
+Immunological,C6
+Hematological,"LMAN1, ERGIC53, F5F8D, MCFD1"
+Metabolic,"LPL, LIPD"
+Immunological,"IL2RG, SCIDX1, SCIDX, IMD4"
+multiple,"GFM1, EFG1, GFM"
+Metabolic,"PSAP, SAP1"
+multiple,NDUFS6
+multiple,"ATPAF2, ATP12"
+Ophthamological,"RPGR, RP3, CRD, RP15, COD1"
+Ophthamological,"GUCA1A, GCAP"
+Ophthamological,"RPGR, RP3, CRD, RP15, COD1"
+Ophthamological,"ABCA4, ABCR, STGD1, FFM, RP19"
+Ophthamological,"AIPL1, LCA4"
+Ophthamological,"GUCY2D, GUC2D, LCA1, CORD6"
+Ophthamological,"RPGRIP1, LCA6, CORD9"
+Ophthamological,"CRX, CORD2, CRD"
+Unclassified,"CFTR, ABCC7, CF, MRP7"
+Ophthamological,"CTDP1, FCP1, CCFDN"
+Metabolic,ALG6
+Metabolic,"ALG3, NOT56L, CDGS4"
+Metabolic,"DPM1, MPDS, CDGIE"
+Metabolic,"MPDU1, SL15, CDGIF"
+Metabolic,ALG12
+Metabolic,ALG8
+Metabolic,"ALG2, CDGII"
+Metabolic,"DIBD1, ALG9"
+Metabolic,"SLC35C1, FUCT1"
+Metabolic,"B4GALT1, GGTB2, GT1, GTB"
+Metabolic,"COG7, CDG2E"
+Metabolic,"DPAGT2, DGPT"
+Metabolic,"ALG1, HMAT1, HMT1"
+Cardiovascular,"ADRA2C, ADRA2L2"
+Cardiovascular,"ADRB1, ADRB1R, RHR"
+Ophthamological,PLG
+Cardiovascular,"TBX1, DGS, CTHM, CAFS, TGA, DORV, VCFS, DGCR"
+Connective tissue,"FBN2, CCA"
+Neurological,"MASS1, VLGR1, KIAA0686, FEB4, USH2C"
+Respiratory,"MMP1, CLG"
+Metabolic,CPO
+Ophthamological,APOA1
+Ophthamological,"TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2"
+Ophthamological,"TACSTD2, TROP2, M1S1"
+Ophthamological,"TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2"
+Ophthamological,"VSX1, RINX, PPCD, PPD, KTCN"
+Ophthamological,"COL8A2, FECD, PPCD2"
+Ophthamological,"TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2"
+Ophthamological,"TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2"
+Ophthamological,"TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2"
+Ophthamological,"TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2"
+Ophthamological,"PIP5K3, CFD"
+Ophthamological,"KERA, CNA2"
+Developmental,"NIPBL, CDLS"
+Cardiovascular,"MEF2A, ADCAD1"
+Cardiovascular,"ABCA1, ABC1, HDLDT1, TGD"
+Cardiovascular,KL
+Cardiovascular,"PON1, PON, ESA"
+Cardiovascular,PON2
+Cardiovascular,"PON1, PON, ESA"
+Cardiovascular,"MMP3, STMY1"
+Cardiovascular,NOS3
+Neurological,IGBP1
+Endocrine,"NR3C1, GCR, GRL"
+Metabolic,GDH
+Metabolic,"HSD11B1, HSD11, HSD11L"
+multiple,HRAS
+Hematological,"CYP2A6, CYP2A3, CYP2A, P450C2A"
+Cancer,"PTEN, MMAC1"
+Cancer,"BMPR1A, ACVRLK3, ALK3"
+Metabolic,CPT1A
+Metabolic,CPT2
+Metabolic,CPT2
+Muscular,"SCN4A, HYPP, NAC1A"
+multiple,"VSX1, RINX, PPCD, PPD, KTCN"
+multiple,"PAX3, WS1, HUP2, CDHS"
+multiple,"FGFR2, BEK, CFD1, JWS"
+Skeletal,"EFNB1, EPLG2, CFNS, CFND"
+Bone,"ANKH, HANK, ANK, CMDJ, CCAL2, CPPDD"
+Skeletal,"FGFR2, BEK, CFD1, JWS"
+Skeletal,"MSX2, CRS2, HOX8"
+multiple,"L1CAM, CAML1, HSAS1"
+Neurological,"SLC6A8, CRTR"
+Metabolic,"CAV3, LGMD1C"
+Metabolic,"CAV3, LGMD1C"
+Neurological,"PRNP, PRIP"
+Neurological,HLA-DQB1
+multiple,"UGT1A1, UGT1, GNT1"
+multiple,"UGT1A1, UGT1, GNT1"
+Gastrointestinal,"CARD15, NOD2, IBD1, CD, ACUG, PSORAS1"
+Gastrointestinal,"DLG5, PDLG, KIAA0583"
+Skeletal,"FGFR2, BEK, CFD1, JWS"
+Skeletal,"FGFR3, ACH"
+Renal,"LGR8, GREAT"
+Renal,INSL3
+Skeletal,"HLXB9, HOXHB9, SCRA1"
+Connective tissue,ELN
+Connective tissue,"FBLN5, ARMD3"
+Connective tissue,"FBLN5, ARMD3"
+Connective tissue,"ATP7A, MNK, MK, OHS"
+Dermatological,KRT1
+Dermatological,"CYLD1, CDMT, EAC"
+Metabolic,CTH
+Respiratory,"CFTR, ABCC7, CF, MRP7"
+Renal,CTNS
+Renal,CTNS
+Renal,CTNS
+Renal,CTNS
+Renal,"SLC3A1, ATR1, D2H, NBAT"
+Renal,"SLC7A9, CSNU3"
+Renal,"SLC7A9, CSNU3"
+Metabolic,D2HGD
+Dermatological,"ATP2A2, ATP2B, DAR"
+Metabolic,HSD17B4
+"Ear,Nose,Throat","EYA4, DFNA10, CMD1J"
+"Ear,Nose,Throat","DIAPH1, DFNA1, LFHL1"
+"Ear,Nose,Throat","MYO7A, USH1B, DFNB2, DFNA11"
+"Ear,Nose,Throat","TECTA, DFNA8, DFNA12, DFNB21"
+"Ear,Nose,Throat","COL11A2, STL3, DFNA13"
+"Ear,Nose,Throat","POU4F3, BRN3C"
+"Ear,Nose,Throat","MYH9, MHA, FTNS, DFNA17"
+"Ear,Nose,Throat","ACTG1, DFNA20, DFNA26"
+"Ear,Nose,Throat","MYO6, DFNA22, DFNB37"
+"Ear,Nose,Throat","GJB3, CX31, DFNA2"
+"Ear,Nose,Throat","KCNQ4, DFNA2"
+"Ear,Nose,Throat","TFCP2L3, DFNA28"
+"Ear,Nose,Throat","GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID"
+"Ear,Nose,Throat","GJB6, CX30, DFNA3, HED, ED2"
+"Ear,Nose,Throat","TMC1, DFNB7, DFNB11, DFNA36"
+"Ear,Nose,Throat","DSPP, DPP, DGI1, DFNA39, DTDP2"
+"Ear,Nose,Throat","CRYM, DFNA40"
+"Ear,Nose,Throat","MYH14, KIAA2034, DFNA4"
+"Ear,Nose,Throat",DFNA5
+"Ear,Nose,Throat","TECTA, DFNA8, DFNA12, DFNB21"
+"Ear,Nose,Throat","COCH, DFNA9"
+"Ear,Nose,Throat",MYO1A
+"Ear,Nose,Throat","GJB3, CX31, DFNA2"
+"Ear,Nose,Throat","TMPRSS3, ECHOS1, DFNB8, DFNB10"
+"Ear,Nose,Throat","GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID"
+"Ear,Nose,Throat","CDH23, USH1D"
+"Ear,Nose,Throat","ATP2B2, PMCA2"
+"Ear,Nose,Throat","STRC, DFNB16"
+"Ear,Nose,Throat","USH1C, DFNB18"
+"Ear,Nose,Throat","TECTA, DFNA8, DFNA12, DFNB21"
+"Ear,Nose,Throat","OTOA, DFNB22"
+"Ear,Nose,Throat","PCDH15, DFNB23"
+"Ear,Nose,Throat","CLDN14, DFNB29"
+"Ear,Nose,Throat","MYO7A, USH1B, DFNB2, DFNA11"
+"Ear,Nose,Throat","MYO3A, DFNB30"
+"Ear,Nose,Throat","WHRN, CIP98, KIAA1526, DFNB31"
+"Ear,Nose,Throat","MYO15A, DFNB3"
+"Ear,Nose,Throat",ESPN
+"Ear,Nose,Throat","MYO6, DFNA22, DFNB37"
+"Ear,Nose,Throat","GJB3, CX31, DFNA2"
+"Ear,Nose,Throat","SLC26A4, PDS, DFNB4"
+"Ear,Nose,Throat","PRES, DFNB61, SLC26A5"
+"Ear,Nose,Throat","TMIE, DFNB6"
+"Ear,Nose,Throat","TMC1, DFNB7, DFNB11, DFNA36"
+"Ear,Nose,Throat","TMPRSS3, ECHOS1, DFNB8, DFNB10"
+"Ear,Nose,Throat","OTOF, DFNB9, NSRD9"
+"Ear,Nose,Throat","JAG1, AGS, AHD"
+"Ear,Nose,Throat",KIAA1199
+"Ear,Nose,Throat","GJB6, CX30, DFNA3, HED, ED2"
+"Ear,Nose,Throat","MYO6, DFNA22, DFNB37"
+"Ear,Nose,Throat","TIMM8A, DFN1, DDP, MTS, DDP1"
+"Ear,Nose,Throat","POU3F4, DFN3"
+Metabolic,"CYP2D@, CYP2D, P450C2D"
+multiple,"PMP22, CMT1A, CMT1E, DSS"
+multiple,"EGR2, KROX20"
+multiple,"PRX, CMT4F"
+multiple,"MPZ, CMT1B, CMTDI3, CHM, DSS"
+Psychiatric,"AANAT, SNAT"
+Neurological,"ITM2B, BRI, ABRI, FBD"
+Neurological,"ITM2B, BRI, ABRI, FBD"
+Neurological,"PSEN1, AD3"
+Neurological,"MAPT, MTBT1, DDPAC, MSTD"
+Neurological,"SNCA, NACP, PARK1, PARK4"
+Neurological,SNCB
+Neurological,"MAPT, MTBT1, DDPAC, MSTD"
+Neurological,"TNF, TNFA"
+Immunological,"CD209, CDSIGN"
+Skeletal,"RUNX2, CBFA1, PEBP2A1, AML3"
+Neurological,DRPLA
+Renal,"CLCN5, CLCK2, NPHL2, DENTS"
+Bone,"DSPP, DPP, DGI1, DFNA39, DTDP2"
+Bone,"DSPP, DPP, DGI1, DFNA39, DTDP2"
+Bone,"DSPP, DPP, DGI1, DFNA39, DTDP2"
+Renal,"OCRL, LOCR, OCRL1, NPHL2"
+Renal,WT1
+Cancer,"PDGFB, SIS"
+multiple,"ERCC6, CKN2, COFS, CSB"
+Cancer,"APC, GS, FPC"
+Metabolic,"DHCR24, KIAA0018"
+Endocrine,"AVPR2, DIR, DI1, ADHR"
+Endocrine,AQP2
+Endocrine,AQP2
+Endocrine,"AVP, AVRP, VP"
+Endocrine,"ABCC8, SUR, PHHI, SUR1"
+Endocrine,"TCF1, HNF1A, MODY3"
+Endocrine,"SUMO4, IDDM5"
+Endocrine,"PTPN8, PEP, PTPN22, LYP"
+Endocrine,INSR
+Endocrine,"PPARG, PPARG1, PPARG2"
+Endocrine,GCK
+Endocrine,GCGR
+Endocrine,GPD2
+Endocrine,"HNF4A, TCF14, MODY1"
+Endocrine,IRS2
+Endocrine,"MAPK8IP1, IB1"
+Endocrine,"NEUROD1, NIDDM"
+Endocrine,"TCF2, HNF2"
+Endocrine,"TCF1, HNF1A, MODY3"
+Endocrine,IRS1
+Endocrine,"SLC2A2, GLUT2"
+Endocrine,"SLC2A4, GLUT4"
+Endocrine,CAPN10
+Endocrine,"ENPP1, PDNP1, NPPS, M6S1, PCA1"
+Endocrine,"RETN, RSTN, FIZZ3"
+Endocrine,PTF1A
+Endocrine,"KCNJ11, BIR, PHHI"
+Endocrine,AKT2
+Endocrine,IPF1
+Endocrine,"FOXP3, IPEX, AIID, XPID, PIDX"
+Endocrine,"KCNJ11, BIR, PHHI"
+Endocrine,"ACE, DCP1, ACE1"
+Endocrine,VEGF
+Skeletal,"SLC26A2, DTD, DTDST, D5S1708, EDM4"
+Skeletal,"SLC26A2, DTD, DTDST, D5S1708, EDM4"
+multiple,"TBX1, DGS, CTHM, CAFS, TGA, DORV, VCFS, DGCR"
+Metabolic,"DPYS, DHP"
+multiple,"DSP, KPPS2, PPKS2"
+Metabolic,"DMGDH, DMGDHD"
+Metabolic,POR
+Connective tissue,COL1A1
+multiple,LIG1
+Metabolic,TOP1
+Metabolic,"TOP2A, TOP2"
+Metabolic,DBH
+Metabolic,DBH
+Endocrine,"DAX1, AHC, AHX, NROB1"
+Cardiovascular,"CFC1, CRYPTIC, HTX2"
+multiple,MTR
+Ophthamological,"EFEMP1, FBNL, DHRD"
+Psychiatric,FAAH
+multiple,"SALL4, HSAL4"
+Metabolic,"ABCC2, CMOAT"
+Muscular,"DMD, BMD"
+multiple,"DYM, FLJ90130, DMC, SMC"
+Hematological,ALB
+Neurological,"IKBKAP, IKAP"
+Dermatological,"ADAR, DRADA, DSH, DSRAD"
+Hematological,"GATA1, GF1, ERYF1, NFE1"
+Hematological,FGA
+Hematological,FGA
+Hematological,FGB
+Hematological,FGG
+Dermatological,"DKC1, DKC"
+Dermatological,"TERC, TRC3, TR"
+Psychiatric,"DYX1C1, DYXC1, DYX1"
+Psychiatric,"KIAA0319, DYX2, DYLX2, DLX2"
+Hematological,F2
+Neurological,"HSPG2, PLC, SJS, SJA, SJS1"
+Neurological,"ATP1A3, DYT12, RDP"
+Neurological,"DYT1, TOR1A"
+Neurological,"GCH1, DYT5"
+Neurological,"DYT1, TOR1A"
+Neurological,DRD2
+Neurological,"SGCE, DYT11"
+Neurological,"DRD5, DRD1B, DRD1L2"
+Hematological,"TTR, PALB"
+Dermatological,COL7A1
+Dermatological,COL7A1
+Dermatological,"ED1, EDA, HED"
+Dermatological,"GJB6, CX30, DFNA3, HED, ED2"
+Dermatological,EDARADD
+Dermatological,"IKBKG, NEMO, FIP3, IP2"
+Dermatological,"NFKBIA, IKBA"
+Dermatological,"EDAR, DL, ED3, EDA3"
+Dermatological,"EDAR, DL, ED3, EDA3"
+Dermatological,"IKBKG, NEMO, FIP3, IP2"
+Dermatological,"HVEC, PVRL1, PVRR1, PRR1"
+Dermatological,PKP1
+Ophthamological,"FBN1, MFS1, WMS"
+Ophthamological,"PAX6, AN2, MGDA"
+Skeletal,"TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS"
+Connective tissue,"TNXB, TNX, TNXB1, TNXBS, TNXB2"
+Connective tissue,"TNXB, TNX, TNXB1, TNXBS, TNXB2"
+Connective tissue,"B4GALT7, XGALT1, XGPT1"
+Connective tissue,COL1A1
+Connective tissue,COL5A1
+Connective tissue,COL5A2
+Connective tissue,COL5A1
+Connective tissue,COL3A1
+Connective tissue,COL3A1
+Connective tissue,"PLOD, PLOD1"
+Connective tissue,COL1A1
+Connective tissue,COL1A2
+Connective tissue,"ADAMTS2, NPI"
+Muscular,ACTN3
+Hematological,"EPB41, EL1"
+Hematological,SPTA1
+Hematological,SPTB
+Hematological,"SLC4A1, AE1, EPB3"
+Skeletal,EVC
+Skeletal,"LBN, EVC2"
+Muscular,"EMD, EDMD, STA"
+Muscular,"LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B"
+Muscular,"LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B"
+Respiratory,"PI, AAT"
+Respiratory,"PI, AAT"
+Neurological,"SERPINI1, PI12"
+Neurological,COX10
+Cancer,"PTHR1, PTHR"
+Cancer,"CDH1, UVO"
+Cancer,MSH3
+Cancer,"MSH6, GTBP, HNPCC5"
+Cancer,"PTEN, MMAC1"
+Immunological,TLR4
+Neurological,"COLQ, EAD"
+Ophthamological,"NR2E3, PNR, ESCS"
+"Ear,Nose,Throat","SLC26A4, PDS, DFNB4"
+Metabolic,ENO3
+Gastrointestinal,"PRSS7, ENTK"
+Hematological,EPX
+Dermatological,"EVER1, EV1"
+Dermatological,"EVER2, EV2"
+Dermatological,COL7A1
+Dermatological,COL7A1
+Dermatological,"COL17A1, BPAG2"
+Dermatological,ITGB4
+Dermatological,"LAMA3, LOCS"
+Dermatological,LAMB3
+Dermatological,"LAMC2, LAMNB2, LAMB2T"
+Dermatological,LAMB3
+Dermatological,"LAMC2, LAMNB2, LAMB2T"
+Dermatological,"LAMA3, LOCS"
+Dermatological,ITGB4
+Dermatological,ITGA6
+Dermatological,"DSP, KPPS2, PPKS2"
+Dermatological,ITGB4
+Dermatological,COL7A1
+Dermatological,COL7A1
+Dermatological,KRT14
+Dermatological,KRT5
+Dermatological,"PLEC1, PLTN, EBS1"
+Dermatological,KRT14
+Dermatological,KRT5
+Dermatological,KRT10
+Dermatological,KRT1
+Dermatological,"KRT9, EPPK"
+Neurological,"KCNQ2, EBN1"
+Neurological,"KCNQ3, EBN2, BFNC2"
+Neurological,"GABRG2, GEFSP3, CAE2, ECA2"
+Neurological,"CLCN2, EGMA, ECA3, EGI3"
+Neurological,"JRK, JH8"
+Neurological,"CACNB4, EJM"
+Neurological,"GABRG2, GEFSP3, CAE2, ECA2"
+Neurological,"SCN1A, GEFSP2, SMEI"
+Neurological,ME2
+Neurological,"CLCN2, EGMA, ECA3, EGI3"
+Neurological,"CACNB4, EJM"
+Neurological,"CLCN2, EGMA, ECA3, EGI3"
+Neurological,"GABRA1, EJM"
+Neurological,"EPM2A, MELF, EPM2"
+Neurological,"NHLRC1, EPM2A, EPM2B"
+Neurological,"SLC25A22, GC1"
+Neurological,"CHRNA4, ENFL1"
+Neurological,"CHRNB2, EFNL3"
+Neurological,"LGI1, EPT, ETL1"
+Neurological,"CSTB, STFB, EPM1"
+Neurological,"NHLRC1, EPM2A, EPM2B"
+Neurological,"SCN1A, GEFSP2, SMEI"
+Neurological,"CLCN2, EGMA, ECA3, EGI3"
+Neurological,SYN1
+Bone,"COMP, EDM1, MED, PSACH"
+Bone,"SLC26A2, DTD, DTDST, D5S1708, EDM4"
+Bone,"COL9A3, EDM3, IDD"
+Bone,"MATN3, EDM5, HOA"
+Bone,"COL9A1, MED"
+Bone,"COL9A2, EDM2"
+Bone,"COL9A3, EDM3, IDD"
+Neurological,"KCNA1, AEMK, EA1"
+Neurological,"CACNA1A, CACNL1A4, SCA6"
+Cancer,OPCML
+Hematological,"MYH9, MHA, FTNS, DFNA17"
+Neurological,"SCN9A, NENA, PN1"
+Hematological,HBA1
+Hematological,HBB
+Hematological,HBA2
+Hematological,EPOR
+Dermatological,LOR
+Dermatological,"GJB3, CX31, DFNA2"
+Dermatological,"GJB4, CX30.3"
+Cancer,"TGFBR2, HNPCC6"
+Cancer,RNF6
+Cancer,"LZTS1, F37, FEZ1"
+Cancer,"WWOX, FOR"
+Endocrine,"ESR1, ESR"
+Metabolic,"ETHE1, HSCO, D83198"
+Cancer,"EWSR1, EWS"
+Metabolic,"LDHA, LDH1"
+Bone,EXT1
+Bone,EXT2
+Ophthamological,"FZD4, EVR1"
+Ophthamological,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+Ophthamological,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+Ophthamological,"NDP, ND"
+Ophthamological,"PAX6, AN2, MGDA"
+Unclassified,NPC1L1
+Metabolic,GLA
+Muscular,"FSHMD1A, FSHD1A"
+Hematological,"HF1, CFH, HUS"
+Hematological,MCFD2
+Hematological,F7
+Hematological,F10
+Hematological,F11
+Hematological,F11
+Hematological,"F12, HAF"
+Hematological,"F13A1, F13A"
+Hematological,F13B
+Immunological,"MEFV, MEF, FMF"
+multiple,"FANCA, FACA, FA1, FA, FAA"
+multiple,"FAAP95, FAAP90, FLJ34064, FANCB"
+multiple,"FANCC, FACC"
+multiple,"BRCA2, FANCD1"
+multiple,"FANCD2, FANCD, FACD, FAD"
+multiple,"FANCE, FACE"
+multiple,FANCF
+multiple,"XRCC9, FANCG"
+multiple,"BRIP1, BACH1, FANCJ"
+multiple,"PHF9, FANCL"
+multiple,"FANCM, KIAA1596"
+Metabolic,"SLC2A2, GLUT2"
+Metabolic,"ASAH, AC"
+Metabolic,"HADHA, MTPA"
+Metabolic,"G6PD, G6PD1"
+multiple,"MYH9, MHA, FTNS, DFNA17"
+multiple,"MYCN, NMYC, ODED, MODED"
+Endocrine,"GNRHR, LHRHR"
+Gastrointestinal,"SPINK1, PSTI, PCTT, TATI"
+Connective tissue,"SOS1, GINGF, GF1, HGF"
+Connective tissue,"ANTXR2, CMG2, JHF, ISH"
+Ophthamological,"KIF21A, KIAA1708, FEOM1, CFEOM1"
+Ophthamological,"PHOX2A, ARIX, CFEOM2"
+Skeletal,"GDF5, CDMP1"
+Metabolic,LCAT
+Metabolic,FMO3
+Hematological,KNG
+Metabolic,"DPYD, DPD"
+Developmental,"TSC1, LAM"
+Endocrine,FSHB
+Neurological,TDGF1
+Ophthamological,"PAX6, AN2, MGDA"
+Ophthamological,"RDS, RP7, PRPH2, PRPH, AVMD, AOFMD"
+Neurological,"FMR1, FRAXA"
+multiple,FRAS1
+multiple,FREM2
+multiple,WT1
+Neurological,"FRDA, FARR"
+Neurological,"FRDA, FARR"
+Skeletal,"FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS"
+Metabolic,FBP1
+Metabolic,ALDOB
+Metabolic,KHK
+Ophthamological,"COL8A2, FECD, PPCD2"
+Metabolic,FUCA1
+Metabolic,FUT6
+Metabolic,FH
+Ophthamological,RDH5
+Ophthamological,RLBP1
+Ophthamological,"ABCA4, ABCR, STGD1, FFM, RP19"
+Metabolic,"G6PD, G6PD1"
+Metabolic,"ABAT, GABAT"
+Metabolic,GALK1
+Metabolic,GALE
+Metabolic,GALT
+Metabolic,"PPGB, GSL, NGBE, GLB2, CTSA"
+Metabolic,GAMT
+Cancer,"APC, GS, FPC"
+Cancer,"APC, GS, FPC"
+Cancer,"IRF1, MAR"
+Cancer,"CDH1, UVO"
+Cancer,IL1B
+Cancer,IL1RN
+Cancer,"CASP10, MCH4, ALPS2"
+Cancer,"ERBB2, NGL, NEU, HER2"
+Cancer,"FGFR2, BEK, CFD1, JWS"
+Cancer,"KLF6, COPEB, BCD1, ZF9"
+Cancer,MUTYH
+Cancer,"KIT, PBT"
+Cancer,PDGFRA
+Metabolic,GBA
+Metabolic,"PSAP, SAP1"
+Metabolic,GBA
+Neurological,"ROBO3, RBIG1, RIG1, HGPPS"
+Neurological,"KCNMA1, SLO"
+Neurological,"SCN1B, GEFSP1"
+Cancer,BCL10
+Cancer,"KIT, PBT"
+Neurological,"PRNP, PRIP"
+Neurological,"GAN, GAN1"
+Cancer,"PDGFB, SIS"
+Gastrointestinal,CYP7B1
+Hematological,GP1BB
+Metabolic,"UGT1A1, UGT1, GNT1"
+Renal,"SLC12A3, NCCT, TSC"
+Hematological,"ITGA2B, GP2B, CD41B"
+Hematological,"ITGB3, GP3A"
+Ophthamological,"MYOC, TIGR, GLC1A, JOAG, GPOA"
+Ophthamological,"MYOC, TIGR, GLC1A, JOAG, GPOA"
+Ophthamological,"OPTN, GLC1E, FIP2, HYPL, NRP"
+Ophthamological,"CYP1B1, GLC3A"
+Ophthamological,"CYP1B1, GLC3A"
+Ophthamological,"MYOC, TIGR, GLC1A, JOAG, GPOA"
+Ophthamological,"OPA1, NTG, NPG"
+Ophthamological,"OPTN, GLC1E, FIP2, HYPL, NRP"
+Ophthamological,"CYP1B1, GLC3A"
+Ophthamological,"CYP1B1, GLC3A"
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+Cancer,DMBT1
+Cancer,"ERBB2, NGL, NEU, HER2"
+Cancer,"LGI1, EPT, ETL1"
+Cancer,"PPARG, PPARG1, PPARG2"
+Renal,"TCF2, HNF2"
+Renal,"ACTN4, FSGS1, FSGS"
+Renal,"TRPC6, TRP6, FSGS2"
+Renal,"CD2AP, CMS"
+Cardiovascular,"GLML, GVM, VMGLOM"
+Endocrine,"MRAP, FALP, C21orf61"
+Endocrine,MC2R
+Metabolic,"SLC5A1, SGLT1"
+Metabolic,"SLC2A1, GLUT1"
+Metabolic,GCS1
+Metabolic,FTCD
+Metabolic,GCDH
+Metabolic,"ETFA, GA2, MADD"
+Metabolic,"ETFB, MADD"
+Metabolic,"ETFDH, MADD"
+Metabolic,"GSS, GSHS"
+Metabolic,GK
+Metabolic,"AMT, NKH, GCE"
+Metabolic,"GCSH, NKH"
+Metabolic,"GLDC, HYGN1, GCSP, GCE, NKH"
+Metabolic,GNMT
+Metabolic,PHKG2
+Metabolic,"PHKA2, PHK"
+Metabolic,"PHKA2, PHK"
+Metabolic,"G6PC, G6PT"
+Metabolic,G6PT1
+Metabolic,G6PT1
+Metabolic,GAA
+Metabolic,"LAMP2, LAMPB"
+Metabolic,"AGL, GDE"
+Metabolic,"AGL, GDE"
+Metabolic,GBE1
+Metabolic,GYS2
+Metabolic,PYGL
+Metabolic,PFKM
+Metabolic,GLB1
+Metabolic,GM2A
+Metabolic,"HEXA, TSD"
+Bone,"TMEM16E, GDD1"
+Endocrine,"TPO, TPX"
+Endocrine,"TG, AITD3"
+multiple,KIAA1279
+Endocrine,DHH
+Endocrine,"SRY, TDF"
+Metabolic,"BCS1L, FLNMS, GRACILE"
+Immunological,"IL10, CSIF"
+Endocrine,CTLA4
+Endocrine,"GC, DBP"
+Skeletal,"LBR, PHA"
+Skeletal,"GLI3, PAPA, PAPB, ACLS"
+Dermatological,"MYO5A, MYH12, GS1"
+Dermatological,"RAB27A, RAM, GS2"
+Dermatological,MLPH
+Endocrine,GHRHR
+Endocrine,STAT5B
+Developmental,IGF1
+multiple,"HOXA13, HOX1J"
+Metabolic,OAT
+Dermatological,"ATP2C1, BCPM, HHD"
+multiple,"CTSC, CPPI, PALS, PLS, HMS"
+multiple,"HOXA13, HOX1J"
+Metabolic,CPO
+Metabolic,"PANK2, NBIA1, PKAN, HARP"
+Metabolic,"SLC6A19, HND"
+multiple,"TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS"
+Metabolic,"ABCA1, ABC1, HDLDT1, TGD"
+Metabolic,"ESR1, ESR"
+"Ear,Nose,Throat","WFS1, WFRS, WFS, DFNA6"
+Cardiovascular,"SCN5A, LQT3, IVF, HB1, SSS1"
+Cardiovascular,"SCN5A, LQT3, IVF, HB1, SSS1"
+Hematological,HBA2
+Hematological,HBA1
+Hematological,HBB
+Metabolic,"HADHA, MTPA"
+Cancer,VHL
+Cancer,"FLT4, VEGFR3, PCL"
+Cancer,KDR
+Hematological,ELA2
+Renal,COL4A4
+Metabolic,HMOX1
+Neurological,"CACNA1A, CACNL1A4, SCA6"
+Metabolic,"HFE, HLA-H, HFE1"
+Metabolic,"HAMP, LEAP1, HEPC, HFE2"
+Metabolic,"HAMP, LEAP1, HEPC, HFE2"
+Metabolic,"HJV, HFE2A"
+Metabolic,"TFR2, HFE3"
+Metabolic,"SLC40A1, SLC11A3, FPN1, IREG1, HFE4"
+Hematological,HBA2
+Hematological,AK1
+Hematological,"SLC4A1, AE1, EPB3"
+Hematological,BPGM
+Hematological,"G6PD, G6PD1"
+Hematological,"GCLC, GLCLC"
+Hematological,GPI
+Hematological,"GSS, GSHS"
+Hematological,HK1
+Hematological,"PGK1, PGKA"
+Hematological,TPI1
+Hematological,"HF1, CFH, HUS"
+Hematological,"PRF1, HPLH2"
+Hematological,"UNC13D, MUNC13-4, HPLH3, HLH3, FHL3"
+Hematological,"F8, F8C, HEMA"
+Hematological,"F9, HEMB"
+Hematological,"PI, AAT"
+Hematological,F5
+Hematological,CP
+Cancer,"TCF1, HNF1A, MODY3"
+Gastrointestinal,"SCOD1, SCO1"
+Metabolic,LIPC
+Cancer,CTNNB1
+Cancer,"PDGFRL, PDGRL, PRLTS"
+Cancer,"AXIN1, AXIN"
+Cancer,CTNNB1
+Cancer,"TP53, P53, LFS1"
+Cancer,"IGF2R, MPRI"
+Cancer,MET
+Cancer,"CASP8, MCH5"
+Cardiovascular,"ENG, END, HHT1, ORW"
+Cardiovascular,"ACVRL1, ACVRLK1, ALK1, HHT2"
+Hematological,"AFP, HPAFP"
+multiple,HPS1
+multiple,HPS3
+multiple,HPS4
+multiple,"HPS5, RU2, KIAA1017"
+multiple,"HPS6, RU"
+multiple,"AP3B1, ADTB3A, HPS2"
+multiple,"DTNBP1, HPS7"
+multiple,"CFC1, CRYPTIC, HTX2"
+multiple,"ZIC3, HTX1, HTX"
+Neurological,"FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS"
+Neurological,"FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS"
+Neurological,"FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS"
+Metabolic,"HEXA, TSD"
+Hematological,KNG
+Gastrointestinal,EDN3
+Gastrointestinal,GDNF
+Gastrointestinal,"NRTN, NTN"
+Gastrointestinal,"RET, MEN2A"
+Gastrointestinal,"EDNRB, HSCR2, ABCDS"
+Gastrointestinal,ECE1
+Gastrointestinal,"PMX2B, NBPHOX, PHOX2B"
+Metabolic,"HAL, HSTD"
+Cancer,"TP53, P53, LFS1"
+Immunological,"CCL5, SCYA5, D17S136E, TCP228"
+Immunological,"CCL5, SCYA5, D17S136E, TCP228"
+Immunological,"IL10, CSIF"
+Immunological,"CMKBR2, CCR2"
+Immunological,"CMKBR5, CCCKR5"
+Metabolic,HMGCL
+Metabolic,HMGCS2
+Metabolic,"HLCS, HCS"
+Developmental,"SIX3, HPE2"
+Developmental,"SHH, HPE3, HLP3, SMMCI"
+Developmental,"TGIF, HPE4"
+Developmental,"ZIC2, HPE5"
+Developmental,"PTCH, NBCCS, BCNS, HPE7"
+Developmental,TBX5
+Metabolic,CTH
+Metabolic,CBS
+Metabolic,MTHFR
+Metabolic,MTRR
+multiple,"SLC3A1, ATR1, D2H, NBAT"
+multiple,"DKC1, DKC"
+Hematological,HBB
+Hematological,HBG1
+Hematological,HBG2
+Metabolic,"HPRT1, HPRT"
+Immunological,IFNGR1
+Neurological,"HD, IT15"
+Neurological,"PRNP, PRIP"
+Neurological,"JPH3, JP3, HDL2"
+Neurological,"TBP, SCA17"
+multiple,"ANTXR2, CMG2, JHF, ISH"
+Neurological,"L1CAM, CAML1, HSAS1"
+Neurological,"L1CAM, CAML1, HSAS1"
+Neurological,"L1CAM, CAML1, HSAS1"
+Metabolic,CETP
+Metabolic,"PYCS, GSAS"
+Endocrine,"CYP21A2, CYP21, CA21H"
+Metabolic,"PPARA, PPAR"
+Gastrointestinal,"UGT1A1, UGT1, GNT1"
+Renal,"SAC, HCA2"
+Gastrointestinal,BAAT
+Gastrointestinal,EPHX1
+Gastrointestinal,"TJP2, ZO2"
+Metabolic,"APOB, FLDB"
+Metabolic,"LDLR, FHC, FH"
+Metabolic,"PCSK9, NARC1, HCHOLA3, FH3"
+Metabolic,"ARH, FHCB2, FHCB1"
+Metabolic,EPHX2
+Metabolic,APOA2
+Metabolic,GSBS
+Metabolic,"ITIH4, PK120, ITIHL1"
+Neurological,"GLRA1, STHE"
+Neurological,GLRB
+Hematological,PDGFRA
+Ophthamological,FTL
+Immunological,"MVK, MVLK"
+Metabolic,GCK
+Metabolic,GLUD1
+Neurological,"SCN4A, HYPP, NAC1A"
+Neurological,"CCM1, CAM, KRIT1"
+Metabolic,"USF1, HYPLIP1"
+Metabolic,APOC2
+Metabolic,"APOE, AD2"
+Metabolic,AASS
+Metabolic,"MAT1A, MATA1, SAMS1"
+Metabolic,"AHCY, SAHH"
+Metabolic,"SLC25A15, ORNT1, HHH"
+Bone,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+Metabolic,"AGXT, SPAT"
+Metabolic,"GRHPR, GLXR"
+Endocrine,MEN1
+Endocrine,"HRPT2, C1orf28"
+Endocrine,"HRPT2, C1orf28"
+Endocrine,"CASR, HHC1, PCAR1, FIH"
+Metabolic,"PCBD, DCOH"
+Metabolic,"PAH, PKU1"
+Endocrine,INS
+Metabolic,"PRODH, PRODH2, SCZD4"
+Metabolic,"ALDH4A1, ALDH4, P5CDH"
+Cardiovascular,REN
+Hematological,F2
+Cardiovascular,KCNMB1
+Cardiovascular,"NR3C2, MLR, MCR"
+Cardiovascular,"AGTR1, AGTR1A, AT2R1"
+Cardiovascular,"PTGIS, CYP8A1, PGIS, CYP8"
+Cardiovascular,ADD1
+Cardiovascular,"AGT, SERPINA8"
+Cardiovascular,ECE1
+Cardiovascular,GNB3
+Cardiovascular,"RETN, RSTN, FIZZ3"
+Cardiovascular,"HSD11B2, HSD11K"
+Cardiovascular,NOS3
+Cardiovascular,"CYP3A5, P450PCN3"
+Cardiovascular,NOS3
+Endocrine,TSHR
+Endocrine,"TPO, TPX"
+Metabolic,APOA1
+Metabolic,APOA5
+Metabolic,"LIPI, LPDL, PRED5"
+Metabolic,"RP1, ORP1"
+Gastrointestinal,"CFTR, ABCC7, CF, MRP7"
+Renal,"UMOD, HNFJ, FJHN, MCKD2, ADMCKD2"
+Metabolic,CYP11B2
+Metabolic,CYP11B2
+Metabolic,APOA1
+Metabolic,"APOB, FLDB"
+Endocrine,"CASR, HHC1, PCAR1, FIH"
+Endocrine,"CASR, HHC1, PCAR1, FIH"
+Endocrine,"CASR, HHC1, PCAR1, FIH"
+Metabolic,CP
+Skeletal,"FGFR3, ACH"
+Hematological,HBA2
+Skeletal,PAX9
+Skeletal,"MSX1, HOX7, HYD1, OFC5"
+Skeletal,"MSX1, HOX7, HYD1, OFC5"
+Hematological,FGG
+Immunological,"BLNK, SLP65"
+Metabolic,"ABCC8, SUR, PHHI, SUR1"
+Metabolic,"ABCC8, SUR, PHHI, SUR1"
+Endocrine,LHB
+Endocrine,GPR54
+Endocrine,NELF
+Endocrine,"GNRHR, LHRHR"
+Endocrine,LHCGR
+Hematological,HP
+Renal,"CACNA1S, CACNL1A3, CCHL1A3"
+Renal,"KCNE3, HOKPP"
+Renal,"SCN4A, HYPP, NAC1A"
+Metabolic,"LCT, LAC, LPH"
+Metabolic,MCM6
+Renal,"FXYD2, ATP1G1, HOMG2"
+Renal,"CLDN16, PCLN1"
+Renal,"TRPM6, CHAK2"
+Endocrine,PTH
+Endocrine,PTH
+Endocrine,GCMB
+Endocrine,"TBCE, KCS, KCS1, HRD"
+Endocrine,"GATA3, HDR"
+Metabolic,"ALPL, HOPS, TNSALP"
+Metabolic,"ALPL, HOPS, TNSALP"
+Metabolic,"CLCN5, CLCK2, NPHL2, DENTS"
+Metabolic,"PHEX, HYP, HPDR1"
+Bone,"FGF23, ADHR, HPDR2, PHPTC"
+Connective tissue,ENAM
+Cardiovascular,"GJA1, CX43, ODDD, SDTY3, ODOD"
+Hematological,F2
+Endocrine,CTLA4
+Endocrine,"SLC5A5, NIS"
+Endocrine,"DUOX2, THOX2"
+Endocrine,PAX8
+Endocrine,TSHR
+Endocrine,"TG, AITD3"
+Endocrine,TSHB
+Endocrine,TSHR
+Dermatological,"CDH3, CDHP, PCAD, HJMD"
+Dermatological,"DSG4, LAH"
+Dermatological,"SOX18, HLTS"
+Dermatological,"CDSN, HTSS"
+Renal,"SLC22A12, OAT4L, URAT1"
+multiple,"GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID"
+Dermatological,"TGM1, ICR2, LI1"
+Dermatological,ALOX12B
+Dermatological,ALOXE3
+Dermatological,"KRT2A, KRT2E"
+Dermatological,ICHYN
+Dermatological,KRT10
+Dermatological,"ABCA12, ICR2B, LI2"
+Dermatological,KRT1
+Dermatological,"ABCA12, ICR2B, LI2"
+Dermatological,"TGM1, ICR2, LI1"
+Dermatological,"STS, ARSC1, ARSC, SSDD"
+Immunological,"ICOS, AILIM"
+Immunological,"PHF11, NYREN34"
+Immunological,IGHG2
+Immunological,"FCGR1A, IGFR1, CD64"
+multiple,"DNMT3B, ICF"
+Immunological,CD3E
+Immunological,CD3G
+Immunological,"AICDA, AID, HIGM2"
+Immunological,"TNFRSF5, CD40"
+Immunological,"UNG, DGU, HIGM4"
+Immunological,"TNFSF5, CD40LG, HIGM1, IGM"
+multiple,"FOXP3, IPEX, AIID, XPID, PIDX"
+Immunological,"TNFRSF14B, TACI"
+Muscular,MYH2
+Muscular,"GNE, GLCNE, IBM2, DMRV, NM"
+Muscular,"VCP, IBMPFD"
+Dermatological,"IKBKG, NEMO, FIP3, IP2"
+Neurological,"ARX, ISSX, PRTS, MRXS1, MRX36, MRX54"
+Endocrine,"SOX3, MRGH"
+Metabolic,ITPA
+Neurological,"NTRK1, TRKA, MTC"
+Psychiatric,GABRB3
+Psychiatric,"PRNP, PRIP"
+Metabolic,"PPARG, PPARG1, PPARG2"
+Metabolic,"PPP1R3A, PPP1R3"
+Metabolic,"PTPN1, PTP1B"
+Immunological,"IL2RA, IL2R"
+Neurological,"COL9A2, EDM2"
+Neurological,"COL9A3, EDM3, IDD"
+Developmental,IGF1R
+Developmental,IGF2
+Hematological,"GIF, IF"
+Immunological,"IRAK4, REN64"
+Ophthamological,"FOXC1, FKHL7, FREAC3"
+Ophthamological,"PITX2, IDG2, RIEG1, RGS, IGDS2"
+Ophthamological,"FOXC1, FKHL7, FREAC3"
+Hematological,TF
+Hematological,"FTH1, FTHL6"
+Endocrine,"GH1, GHN"
+Metabolic,IVD
+Skeletal,"FGFR1, FLT2, KAL2"
+Skeletal,"FGFR2, BEK, CFD1, JWS"
+Neurological,"TIMM8A, DFN1, DDP, MTS, DDP1"
+multiple,"KCNE1, JLNS, LQT5"
+multiple,"KCNQ1, KCNA9, LQT1, KVLQT1, ATFB1"
+multiple,"NPHP1, NPH1, SLSN1"
+multiple,AHI1
+multiple,"ATRX, XH2, XNP, MRXS3, SHS"
+Cancer,"MADH4, DPC4, SMAD4, JIP"
+Renal,"KLK1, KLKR"
+multiple,"FGFR1, FLT2, KAL2"
+multiple,"KAL1, KMS, ADMLX"
+Metabolic,NAGA
+Immunological,"IL6, IFNB2, BSF2"
+Immunological,IGKC
+multiple,"DNAH11, DNAHC11"
+multiple,"DNAH5, HL1, PCD, CILD3"
+multiple,"DNAI1, CILD1, ICS, PCD"
+multiple,"TBCE, KCS, KCS1, HRD"
+Ophthamological,"PAX6, AN2, MGDA"
+multiple,"GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID"
+Ophthamological,"VSX1, RINX, PPCD, PPD, KTCN"
+Dermatological,"GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID"
+Dermatological,"SAT, SSAT, KFSD"
+Dermatological,KRT1
+Dermatological,DSG1
+Dermatological,"DSP, KPPS2, PPKS2"
+Dermatological,KRT1
+Metabolic,"SCOT, OXCT"
+multiple,"MGP, NTI"
+Dermatological,"KIND1, URP1, C20orf42"
+Hematological,KNG
+multiple,"VG5Q, HUS84971, FLJ10283"
+Skeletal,COL2A1
+multiple,"COL18A1, KNO"
+Neurological,GALC
+Metabolic,"L2HGDH, C14orf160"
+Metabolic,LDHB
+Metabolic,PDX1
+Skeletal,"SHOX, GCFX, SS, PHOG"
+Skeletal,SHOXY
+Skeletal,GHR
+Skeletal,"FLNB, SCT, AOI"
+multiple,"LAMA3, LOCS"
+Metabolic,"SC5DL, ERG3"
+Metabolic,"HADHA, MTPA"
+Metabolic,ALAD
+Nutritional,"AGRP, ART, AGRT"
+Ophthamological,"CRB1, RP12"
+Ophthamological,"CRX, CORD2, CRD"
+Ophthamological,"RPGRIP1, LCA6, CORD9"
+Ophthamological,"RPE65, RP20"
+Ophthamological,"AIPL1, LCA4"
+Ophthamological,"GUCY2D, GUC2D, LCA1, CORD6"
+Ophthamological,"RDH12, LCA3"
+Developmental,ACVR2B
+Developmental,"EBAF, TGFB4, LEFTY2, LEFTA, LEFTYA"
+Cardiovascular,"DTNA, D18S892E, DRP3, LVNC1"
+Cardiovascular,"DTNA, D18S892E, DRP3, LVNC1"
+Immunological,"TLR5, TIL3"
+Neurological,"BCS1L, FLNMS, GRACILE"
+Neurological,"DLD, LAD, PHE3"
+Neurological,NDUFS3
+Neurological,"NDUFS4, AQDQ"
+Neurological,"NDUFS7, PSST"
+Neurological,NDUFS8
+Neurological,"NDUFV1, UQOR1"
+Neurological,"SDHA, SDH2, SDHF"
+Neurological,SURF1
+Neurological,COX15
+Neurological,"LRPPRC, LRP130, LSFC"
+Neurological,"PDHA1, PHE1A"
+Cancer,FH
+Cancer,COL4A6
+multiple,"PTPN11, PTP2C, SHP2, NS1"
+Developmental,INSR
+Immunological,"PRKN, PARK2, PDJ"
+Skeletal,"SHOX, GCFX, SS, PHOG"
+Skeletal,SHOXY
+Metabolic,"HPRT1, HPRT"
+Cancer,"TAL1, TCL5, SCL"
+Cancer,TAL2
+Cancer,FLT3
+Cancer,"NBS1, NBS"
+Cancer,"ZNFN1A1, IK1, LYF1"
+Cancer,"HOXD4, HOX4B"
+Cancer,"BCR, CML, PHL, ALL"
+Cancer,ARNT
+Cancer,"KRAS2, RASK2"
+Cancer,GMPS
+Cancer,AF10
+Cancer,"ARHGEF12, LARG, KIAA0382"
+Cancer,"CALM, CLTH"
+Cancer,"CEBPA, CEBP"
+Cancer,"CHIC2, BTL"
+Cancer,FLT3
+Cancer,"KIT, PBT"
+Cancer,LPP
+Cancer,NPM1
+Cancer,"NUP214, D9S46E, CAN, CAIN"
+Cancer,"RUNX1, CBFA2, AML1"
+Cancer,"WHSC1L1, NSD3"
+Cancer,FLT3
+Cancer,AF1Q
+Cancer,NPM1
+Cancer,NUMA1
+Cancer,"ZNF145, PLZF"
+Cancer,"PML, MYL"
+Cancer,STAT5B
+Cancer,AF10
+Cancer,"CALM, CLTH"
+Cancer,"ARL11, ARLTS1"
+Cancer,"P2RX7, P2X7"
+Cancer,"BCR, CML, PHL, ALL"
+Cancer,GRAF
+Cancer,"NF1, VRNF, WSS, NFNS"
+Cancer,"PTPN11, PTP2C, SHP2, NS1"
+Cancer,BCL2
+Cancer,"CCND1, PRAD1, BCL1"
+Cancer,TCRA
+Cancer,"GATA1, GF1, ERYF1, NFE1"
+Cancer,"GATA1, GF1, ERYF1, NFE1"
+Cancer,ABL1
+Cancer,"NQO1, DIA4, NMOR1"
+Cancer,"NUP214, D9S46E, CAN, CAIN"
+Immunological,"ITGB2, CD18, LCAMB, LAD"
+Neurological,"EIF2B1, EIF2BA"
+Neurological,EIF2B2
+Neurological,EIF2B3
+Neurological,"EIF2B5, LVWM, CACH, CLE"
+Neurological,EIF2B4
+Cancer,LHCGR
+Cancer,"PTEN, MMAC1"
+Renal,SCNN1B
+Renal,"SCNN1G, PHA1"
+Cancer,"CDKN2A, MTS1, P16, MLM, CMM2"
+Cancer,"TP53, P53, LFS1"
+Cancer,"CHEK2, RAD53, CHK2, CDS1, LFS2"
+multiple,LIG4
+multiple,"TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS"
+Metabolic,"AGPAT2, LPAAB, BSCL, BSCL1"
+Metabolic,"BSCL2, SPG17"
+Metabolic,"LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B"
+Metabolic,"PPARG, PPARG1, PPARG2"
+Metabolic,"PPARGC1A, PPARGC1"
+Endocrine,STAR
+Endocrine,"CYP11A, P450SCC"
+Metabolic,ECM1
+Cancer,"HMGA2, HMGIC, BABL, LIPO"
+Cancer,LPP
+Cancer,MEN1
+Cancer,"HMGA2, HMGIC, BABL, LIPO"
+Metabolic,"LPL, LIPD"
+Neurological,"PAFAH1B1, LIS1"
+Neurological,"RELN, RL"
+Neurological,"DCX, DBCN, LISX"
+Neurological,"ARX, ISSX, PRTS, MRXS1, MRX36, MRX54"
+Immunological,"CDH1, UVO"
+Connective tissue,TGFBR1
+Connective tissue,"TGFBR2, HNPCC6"
+Developmental,CETP
+Developmental,AKAP10
+Cardiovascular,"KCNQ1, KCNA9, LQT1, KVLQT1, ATFB1"
+Cardiovascular,"KCNH2, LQT2, HERG"
+Cardiovascular,"SCN5A, LQT3, IVF, HB1, SSS1"
+Cardiovascular,"ANK2, LQT4"
+Cardiovascular,"KCNE1, JLNS, LQT5"
+Cardiovascular,"KCNE2, MIRP1, LQT6"
+Cardiovascular,"KCNJ2, HHIRK1, KIR2.1, IRK1, LQT7"
+Neurological,DCTN1
+Metabolic,"OCRL, LOCR, OCRL1, NPHL2"
+Cardiovascular,CYP11B2
+Metabolic,LPA
+Skeletal,CILP
+Cancer,"KRAS2, RASK2"
+Cancer,PPP2R1B
+Cancer,"SLC22A1L, BWSCR1A, IMPT1"
+Cancer,"MAP3K8, COT, EST, TPL2"
+Connective tissue,"FCGR2A, IGFR2, CD32"
+Respiratory,"TSC1, LAM"
+Respiratory,"TSC2, LAM"
+Hematological,"FOXC2, FKHL14, MFH1"
+Hematological,"FOXC2, FKHL14, MFH1"
+Hematological,"FOXC2, FKHL14, MFH1"
+Hematological,"FLT4, VEGFR3, PCL"
+Hematological,"FOXC2, FKHL14, MFH1"
+Cancer,RAP1GDS1
+Cancer,"ATM, ATA, AT1"
+Cancer,BCL8
+Cancer,BCL10
+Cancer,BCL10
+Cancer,"ATM, ATA, AT1"
+Cancer,RAD54B
+Cancer,"RAD54L, HR54, HRAD54"
+Cancer,"FCGR2B, CD32"
+Cancer,"MAD1L1, TXBP181"
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+Cancer,"SH2D1A, LYP, IMD5, XLP, XLPD"
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+Metabolic,"SLC7A7, LPI"
+Neurological,"ATXN3, MJD, SCA3"
+Hematological,"IRF1, MAR"
+Hematological,"GATA1, GF1, ERYF1, NFE1"
+Ophthamological,"CHST6, MCDC1"
+Ophthamological,"HF1, CFH, HUS"
+Ophthamological,"HMCN1, FBLN6, FIBL6"
+Ophthamological,"FBLN5, ARMD3"
+Ophthamological,"CNGB3, ACHM3"
+Ophthamological,"RPGR, RP3, CRD, RP15, COD1"
+Ophthamological,"RDS, RP7, PRPH2, PRPH, AVMD, AOFMD"
+Ophthamological,"ABCA4, ABCR, STGD1, FFM, RP19"
+Ophthamological,"ELOVL4, ADMD, STGD2, STGD3"
+Ophthamological,"RDS, RP7, PRPH2, PRPH, AVMD, AOFMD"
+Ophthamological,VMD2
+Ophthamological,VMD2
+Psychiatric,"FKBP5, FKBP51"
+Immunological,CD36
+Immunological,CD36
+Immunological,ICAM1
+Immunological,"TNF, TNFA"
+Immunological,"GYPC, GE, GPC"
+Immunological,"NOS2A, NOS2"
+Neurological,"RYR1, MHS, CCO"
+Neurological,"CACNA1S, CACNL1A3, CCHL1A3"
+Metabolic,"MLYCD, MCD"
+Cancer,"MALT1, MLT"
+multiple,"ZMPSTE24, FACE1, STE24, MADB"
+Metabolic,"MAN2B1, MANB"
+Metabolic,"MANBA, MANB1"
+Metabolic,"BCKDHA, MSUD1"
+Metabolic,"BCKDHB, E1B"
+Metabolic,"DBT, BCATE2"
+Metabolic,"DLD, LAD, PHE3"
+Connective tissue,"FBN1, MFS1, WMS"
+Connective tissue,COL1A2
+Metabolic,"ARSB, MPS6"
+multiple,"COL11A1, STL2"
+multiple,"L1CAM, CAML1, HSAS1"
+Immunological,MASP2
+Connective tissue,"FBN1, MFS1, WMS"
+Cancer,"KIT, PBT"
+Immunological,"KIT, PBT"
+Neurological,"ACP33, MAST, SPG21"
+Hematological,"MYH9, MHA, FTNS, DFNA17"
+Metabolic,PYGM
+multiple,"GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO"
+Developmental,"MKKS, HMCS, KMS, MKS, BBS6"
+Hematological,XK
+Hematological,XK
+Renal,"UMOD, HNFJ, FJHN, MCKD2, ADMCKD2"
+Cancer,"RET, MEN2A"
+Cancer,"NTRK1, TRKA, MTC"
+Cancer,PTCH2
+Cancer,"SUFU, SUFUXL, SUFUH"
+Ophthamological,KRT12
+Ophthamological,KRT3
+Cancer,"MKL1, AMKL, MAL"
+Neurological,"MLC1, LVM, VL"
+Hematological,"CUBN, IFCR, MGA1"
+Hematological,AMN
+Cancer,"CDK4, CMM3"
+Cancer,"CDKN2A, MTS1, P16, MLM, CMM2"
+Cancer,"CDKN2A, MTS1, P16, MLM, CMM2"
+Cancer,XRCC3
+Cancer,"STK11, PJS, LKB1"
+Cancer,BRAF
+Dermatological,"SLURP1, MDM"
+Skeletal,"FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS"
+Developmental,"LEMD3, MAN1"
+Neurological,BDNF
+Neurological,"COCH, DFNA9"
+Cancer,"MN1, MGCR"
+Cancer,"PTEN, MMAC1"
+Cancer,NF2
+Cancer,"PDGFB, SIS"
+Immunological,"MBL2, MBL, MBP1"
+Neurological,"ATP7A, MNK, MK, OHS"
+Neurological,"PRSS12, BSSP3"
+Neurological,"CRBN, MRT2A"
+Neurological,"NLGN4, KIAA1260, AUTSX2"
+Neurological,"MECP2, RTT, PPMX, MRX16, MRX79"
+Neurological,"PAK3, MRX30, MRX47"
+Neurological,"IL1RAPL, MRX34"
+Neurological,"ARX, ISSX, PRTS, MRXS1, MRX36, MRX54"
+Neurological,"SLC6A8, CRTR"
+Neurological,"FTSJ1, JM23, SPB1, MRX44, MRX9"
+Neurological,"ZNF81, MRX45"
+Neurological,"ARX, ISSX, PRTS, MRXS1, MRX36, MRX54"
+Neurological,"TM4SF2, MXS1, A15"
+Neurological,OPHN1
+Neurological,"FTSJ1, JM23, SPB1, MRX44, MRX9"
+Neurological,"FMR2, FRAXE, MRX2"
+Neurological,"SMCX, MRXJ, DXS1272E, XE169, JARID1C"
+Neurological,"GDI1, RABGD1A, MRX41, MRX48"
+Neurological,"FACL4, ACS4, MRX63"
+Neurological,"RPS6KA3, RSK2, MRX19"
+Neurological,"ARHGEF6, MRX46, COOL2"
+Neurological,AGTR2
+Neurological,"FGD1, FGDY, AAS"
+Neurological,ZNF41
+Neurological,"DLG3, NEDLG, SAP102, MRX"
+Neurological,"SMS, SRS, MRSR"
+Neurological,"SOX3, MRGH"
+Neurological,"MECP2, RTT, PPMX, MRX16, MRX79"
+Neurological,"SLC6A8, CRTR"
+Metabolic,"CYP2C, CYP2C19"
+Cancer,"SDHD, PGL1"
+Renal,WT1
+Cancer,BCL10
+Neurological,ARSA
+Neurological,"PSAP, SAP1"
+Connective tissue,"PTHR1, PTHR"
+Connective tissue,COL10A1
+Connective tissue,"RMRP, RMRPR, CHH"
+Hematological,CYB5
+Hematological,HBA1
+Hematological,HBB
+Hematological,DIA1
+Hematological,DIA1
+Metabolic,"MAT1A, MATA1, SAMS1"
+Metabolic,MTR
+Metabolic,"ALDH6A1, MMSDH"
+Metabolic,"MUT, MCM"
+Metabolic,MMAA
+Metabolic,MMAB
+Metabolic,"MVK, MVLK"
+Immunological,RFXANK
+Neurological,"SLC25A19, DNC, MUP1, MCPHA"
+Neurological,MCPH1
+Neurological,"CDK5RAP2, KIAA1633, MCPH3"
+Neurological,"ASPM, MCPH5"
+Neurological,"CEMPJ, CPAP, MCPH6"
+Ophthamological,"LAMB2, LAMS"
+Renal,LHCGR
+Ophthamological,"CHX10, HOX10"
+Ophthamological,SIX6
+Ophthamological,"BCOR, KIAA1575, MAA2, ANOP2"
+Neurological,"ATP1A2, FHM2, MHP2"
+Neurological,EDNRA
+Neurological,"ESR1, ESR"
+Neurological,"TNF, TNFA"
+multiple,"YWHAE, MDCR, MDS"
+multiple,NDUFS1
+multiple,NDUFS2
+multiple,"NDUFS4, AQDQ"
+multiple,"NDUFV1, UQOR1"
+multiple,"BCS1L, FLNMS, GRACILE"
+multiple,"UQCRB, UQBP, QPC"
+Muscular,TK2
+multiple,SUCLA2
+multiple,"DGUOK, DGK"
+multiple,"PUS1, MLASA"
+multiple,"SDHA, SDH2, SDHF"
+Muscular,"DYSF, LGMD2B"
+Endocrine,"TCF2, HNF2"
+Endocrine,"TCF2, HNF2"
+Endocrine,INS
+Endocrine,"HNF4A, TCF14, MODY1"
+Endocrine,GCK
+Endocrine,"TCF1, HNF1A, MODY3"
+Endocrine,IPF1
+Endocrine,"TCF2, HNF2"
+Neurological,"TIMM8A, DFN1, DDP, MTS, DDP1"
+Metabolic,"MOCS1, MOCOD"
+Metabolic,"MOCS2, MPTS"
+Metabolic,"GPH, KIAA1385, GEPH"
+Dermatological,"KRTHB1, HB1"
+Dermatological,"KRTHB6, HB6"
+Skeletal,"PAX6, AN2, MGDA"
+Developmental,"ZFHX1B, SMADIP1, SIP1"
+Neurological,MYMY3
+multiple,"CIAS1, C1orf7, FCU, FCAS"
+Cancer,"MAML2, MAM3"
+Cancer,"MECT1, KIAA0616"
+Metabolic,"GNPTAB, GNPTA"
+Metabolic,GNPTAG
+Metabolic,"MCOLN1, ML4"
+Metabolic,"IDUA, IDA"
+Metabolic,"IDUA, IDA"
+Metabolic,"IDS, MPS2, SIDS"
+Metabolic,"IDUA, IDA"
+Metabolic,"GALNS, MPS4A"
+Metabolic,GLB1
+Metabolic,"GNS, G6S"
+Metabolic,HYAL1
+Metabolic,"GUSB, MPS7"
+Skeletal,"FGFR3, ACH"
+Cancer,"MLH1, COCA2, HNPCC2"
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+multiple,"TRIM37, MUL, KIAA0898"
+Cancer,FH
+Cancer,MEN1
+Cancer,"RET, MEN2A"
+Cancer,"RET, MEN2A"
+Cancer,"TP53, P53, LFS1"
+Cancer,"IRF4, LSIRF"
+Cancer,LIG4
+Neurological,"MHC2TA, C2TA"
+Neurological,"PTPRC, CD45, LCA"
+Metabolic,"SUMF1, FGE"
+multiple,"POMGNT1, MEB"
+Muscular,PHKA1
+Muscular,"GDF8, MSTN"
+Muscular,"FKRP, MDC1C, LGMD2I"
+Muscular,"LAMA2, LAMM"
+Muscular,"LAMA2, LAMM"
+Muscular,"LARGE, KIAA0609, MDC1D"
+Muscular,FCMD
+Muscular,"TTID, MYOT"
+Muscular,"CAPN3, CANP3"
+Muscular,"DYSF, LGMD2B"
+Muscular,"SGCG, LGMD2C, DMDA1, SCG3"
+Muscular,"SGCA, ADL, DAG2, LGMD2D, DMDA2"
+Muscular,"SGCB, LGMD2E"
+Muscular,"SGCD, SGD, LGMD2F, CMD1L"
+Muscular,"TCAP, LGMD2G, CMD1N"
+Muscular,"TRIM32, HT2A, LGMD2H"
+Muscular,"FKRP, MDC1C, LGMD2I"
+Muscular,"TTN, CMD1G, TMD, LGMD2J"
+Muscular,POMT1
+Muscular,"CAV3, LGMD1C"
+Muscular,"SEPN1, SELN, RSMD1"
+Muscular,"PLEC1, PLTN, EBS1"
+Muscular,"CMS1A1, FIM1"
+Muscular,"SCN4A, HYPP, NAC1A"
+Muscular,"CHRNB1, ACHRB, SCCMS, CMS2A, CMS1D"
+Muscular,"CHRNE, SCCMS, CMS2A, FCCMS, CMS1E, CMS1D"
+Muscular,"RAPSN, CMS1D, CMS1E"
+Muscular,"CHAT, CMS1A2"
+Muscular,"RAPSN, CMS1D, CMS1E"
+Muscular,"CHRNA1, ACHRD, CMS2A, SCCMS, FCCMS"
+Muscular,"CHRND, ACHRD, SCCMS, CMS2A, FCCMS"
+Muscular,"CHRNE, SCCMS, CMS2A, FCCMS, CMS1E, CMS1D"
+Muscular,"CHRNA1, ACHRD, CMS2A, SCCMS, FCCMS"
+Muscular,"CHRNB1, ACHRB, SCCMS, CMS2A, CMS1D"
+Muscular,"CHRND, ACHRD, SCCMS, CMS2A, FCCMS"
+Muscular,"CHRNE, SCCMS, CMS2A, FCCMS, CMS1E, CMS1D"
+Immunological,IL12RB1
+Immunological,IFNGR1
+Immunological,"IFNGR2, IFNGT1, IFGR2"
+Immunological,STAT1
+Immunological,"NRAMP1, NRAMP"
+Muscular,MDS1
+Muscular,"FACL6, ACS2"
+Muscular,"IRF1, MAR"
+Hematological,JAK2
+Cancer,"FACL6, ACS2"
+Cancer,"IRF1, MAR"
+Cancer,CBFB
+Cancer,"CSF1R, FMS"
+Immunological,"CXCR4, D2S201E, NPY3R, WHIM"
+Cancer,"PDGFRB, PDGFR"
+Immunological,MPO
+Cancer,"PDGFRB, PDGFR"
+Muscular,AMPD1
+Cardiovascular,F7
+Cardiovascular,"APOE, AD2"
+Cardiovascular,"ACE, DCP1, ACE1"
+Cardiovascular,"ALOX5AP, FLAP"
+Cardiovascular,LGALS2
+Cardiovascular,"LTA, TNFB"
+Cardiovascular,"OLR1, LOX1"
+Cardiovascular,"THBD, THRM"
+Cardiovascular,"GCLM, GLCLR"
+Cardiovascular,"TNFSF4, GP34, OX4OL"
+Neurological,"EFHC1, FLJ10466, EJM1"
+Neurological,"GABRG2, GEFSP3, CAE2, ECA2"
+Neurological,"ARX, ISSX, PRTS, MRXS1, MRX36, MRX54"
+Metabolic,"PGK1, PGKA"
+Neurological,"KCNQ2, EBN1"
+multiple,ECGF1
+Muscular,"ACTA1, ASMA, NEM3, NEM1"
+Muscular,"ACTA1, ASMA, NEM3, NEM1"
+Muscular,"CRYAB, CRYA2, CTPP2"
+Muscular,MYF6
+Muscular,ITGA7
+Muscular,"DES, CMD1I"
+Muscular,"DYSF, LGMD2B"
+Muscular,"CAV3, LGMD1C"
+Muscular,CPT2
+Muscular,"PGAM2, PGAMM"
+Muscular,"MYH7, CMH1, MPD1"
+Muscular,"MYH7, CMH1, MPD1"
+Muscular,"ACTA1, ASMA, NEM3, NEM1"
+Muscular,"TTID, MYOT"
+Muscular,"SCN4A, HYPP, NAC1A"
+Muscular,CLCN1
+Muscular,CLCN1
+Muscular,CLCN1
+Muscular,"DMPK, DM, DMK"
+Muscular,"ZNF9, CNBP1, DM2, PROMM"
+Muscular,"MTM1, MTMX"
+Cancer,"DDIT3, GADD153, CHOP10"
+Cardiovascular,"PRKAR1A, TSE1, CNC1, CAR"
+Metabolic,NAGS
+multiple,"LMX1B, NPS1"
+multiple,"LMX1B, NPS1"
+Ophthamological,NHS
+Psychiatric,"HCRT, OX"
+Cancer,"TP53, P53, LFS1"
+Bone,TREM2
+Bone,"TYROBP, PLOSL, DAP12"
+multiple,"JUP, DP3, PDGB"
+Muscular,"TPM2, TMSB, AMCD1, DA1"
+Muscular,"TPM3, NEM1"
+Muscular,"NEB, NEM2"
+Muscular,"TNNT1, ANM"
+multiple,"CLDN1, SEMP1"
+Renal,"AVPR2, DIR, DI1, ADHR"
+Renal,"CLCN5, CLCK2, NPHL2, DENTS"
+Renal,"ZNF365, UAN"
+Renal,"INVS, INV, NPHP2, NPH2"
+Renal,"NPHP4, SLSN4"
+Renal,"NPHP3, NPH3"
+Renal,"NPHP1, NPH1, SLSN1"
+Renal,"HF1, CFH, HUS"
+Renal,"CD151, PETA3, SFA1"
+Renal,"NPHS1, NPHN"
+Renal,"PDCN, NPHS2, SRN1"
+Dermatological,"SPINK5, LEKTI"
+Developmental,"MTHFD, MTHFC"
+Cancer,"NME1, NM23"
+Cancer,"PMX2B, NBPHOX, PHOX2B"
+Neurological,"PANK2, NBIA1, PKAN, HARP"
+multiple,"PMS2, PMSL2, HNPCC4"
+Cancer,"NF1, VRNF, WSS, NFNS"
+Cancer,"NF1, VRNF, WSS, NFNS"
+Cancer,"NF1, VRNF, WSS, NFNS"
+Cancer,NF2
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+Cancer,MXI1
+Neurological,"EGR2, KROX20"
+Neurological,"MPZ, CMT1B, CMTDI3, CHM, DSS"
+Neurological,"HSPB1, HSP27, CMT2F"
+Neurological,"HSPB8, H11, E2IG1, DHMN2"
+Neurological,"SPTLC1, LBC1, SPT1, HSN1, HSAN"
+Neurological,"NGFB, HSAN5"
+Neurological,HSN2
+Neurological,"PMP22, CMT1A, CMT1E, DSS"
+Hematological,"FCGR3A, CD16, IGFR3"
+Hematological,ELA2
+Hematological,"GFI1, ZNF163"
+Hematological,"WAS, IMD2, THC"
+Immunological,RAC2
+Connective tissue,"PLOD, PLOD1"
+Dermatological,KRT10
+Ophthamological,RLBP1
+Psychiatric,"CYP2A6, CYP2A3, CYP2A, P450C2A"
+Psychiatric,"CHRNA4, ENFL1"
+Psychiatric,"GPR51, GABBR2"
+Metabolic,"SMPD1, NPD"
+Metabolic,"SMPD1, NPD"
+Metabolic,"NPC1, NPC"
+Metabolic,"NPC2, HE1"
+Metabolic,"NPC1, NPC"
+Ophthamological,GNAT1
+Ophthamological,"CSNB1, NYX"
+Ophthamological,"PDE6B, PDEB, CSNB3"
+Ophthamological,"CACNA1F, CSNB2"
+Ophthamological,"RHO, RP4, OPN2"
+multiple,"NBS1, NBS"
+Muscular,"GNE, GLCNE, IBM2, DMRV, NM"
+Cardiovascular,"TAZ, EFE2, BTHS, CMD3A, LVNCX"
+Cancer,"CASP10, MCH4, ALPS2"
+Cancer,"IRF1, MAR"
+Cancer,EGFR
+Cancer,BRAF
+Developmental,"PTPN11, PTP2C, SHP2, NS1"
+Neurological,"NDP, ND"
+Metabolic,LCAT
+Immunological,"FUT2, SE"
+Immunological,NP
+Nutritional,POMC
+Nutritional,MC4R
+Nutritional,"AKR1C2, DDH2, DD2, HAKRD"
+Nutritional,"NTRK2, TRKB"
+Nutritional,"AGRP, ART, AGRT"
+Nutritional,"NR0B2, SHP"
+Nutritional,"LEP, OB"
+Nutritional,"LEPR, OBR"
+Nutritional,"PPARG, PPARG1, PPARG2"
+Nutritional,"PPARG, PPARG1, PPARG2"
+Nutritional,SIM1
+Nutritional,UCP3
+Nutritional,"LEP, OB"
+Nutritional,MC3R
+Nutritional,"SLC6A14, OBX"
+Nutritional,ADRB2
+Nutritional,ADRB3
+Nutritional,CART
+Nutritional,"ENPP1, PDNP1, NPPS, M6S1, PCA1"
+Nutritional,GHRL
+Nutritional,UCP1
+Nutritional,UCP2
+Nutritional,"PCSK1, NEC1, PC1, PC3"
+Psychiatric,"SLC6A4, HTT, OCD1"
+Psychiatric,BDNF
+Psychiatric,HTR2A
+multiple,"ATP7A, MNK, MK, OHS"
+Ophthamological,OA1
+Ophthamological,MC1R
+Ophthamological,"MATP, AIM1"
+Skeletal,"GJA1, CX43, ODDD, SDTY3, ODOD"
+multiple,"BCOR, KIAA1575, MAA2, ANOP2"
+Muscular,"PABPN1, PABP2, PAB2"
+Muscular,"PABPN1, PABP2, PAB2"
+Bone,"ALPL, HOPS, TNSALP"
+Ophthamological,SAG
+Ophthamological,"RHOK, RK, GRK1"
+Cancer,"PTEN, MMAC1"
+Skeletal,PAX9
+Cancer,AXIN2
+Immunological,"DCLRE1C, ARTEMIS, SCIDA"
+Immunological,RAG1
+Immunological,RAG2
+multiple,"MID1, OGS1, BBBG1, FXY, OSX"
+Metabolic,"CYP2C, CYP2C19"
+Ophthamological,"OPA1, NTG, NPG"
+Ophthamological,"OPA3, MGA3"
+multiple,PAX2
+Ophthamological,"PAX6, AN2, MGDA"
+Skeletal,"OFD1, CXorf5"
+Metabolic,OTC
+Skeletal,"IRF6, VWS, LPS, PIT, PPS, OFC6"
+Cancer,"CDKN2A, MTS1, P16, MLM, CMM2"
+Metabolic,"UMPS, OPRT"
+Cardiovascular,"SLC6A2, NAT1, NET1"
+Bone,"COL11A2, STL3, DFNA13"
+Bone,"GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO"
+Connective tissue,"ENPP1, PDNP1, NPPS, M6S1, PCA1"
+Connective tissue,"MATN3, EDM5, HOA"
+Connective tissue,"FRZB, FRZB1, SRFP3"
+Connective tissue,"ASPN, PLAP1"
+Connective tissue,COL2A1
+Bone,COL1A2
+Bone,COL1A1
+Bone,COL1A1
+Bone,COL1A1
+Bone,COL1A1
+Bone,"TNFRSF11A, RANK, ODFR, OFE"
+Bone,"MMP2, CLG4A, MONA"
+Bone,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+Bone,"CLCN7, CLC7, OPTA2"
+Bone,"OSTM1, GL"
+Bone,"CLCN7, CLC7, OPTA2"
+Bone,"TCIRG1, TIRC7, OC116, OPTB1"
+Bone,"LEMD3, MAN1"
+Bone,COL1A1
+Bone,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+Bone,"CALCA, CALC1"
+Bone,"SLC17A2, NPT2"
+Bone,COL1A2
+Bone,"CALCR, CRT"
+Bone,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+Bone,RIL
+Cancer,"TP53, P53, LFS1"
+Cancer,"CHEK2, RAD53, CHK2, CDS1, LFS2"
+multiple,"FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS"
+multiple,"FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS"
+Cancer,"BRCA1, PSCP"
+Cancer,"MSH2, COCA1, FCC1, HNPCC1"
+Cancer,PIK3CA
+Cancer,"MSH6, GTBP, HNPCC5"
+Cancer,"ERBB2, NGL, NEU, HER2"
+Cancer,"CDH1, UVO"
+Cancer,"RRAS2, TC21"
+Cancer,CTNNB1
+Endocrine,"FSHR, ODG1"
+Endocrine,"BMP15, GDF9B, ODG2"
+Endocrine,"FSHR, ODG1"
+Cancer,"FSHR, ODG1"
+Neurological,EIF2B2
+Neurological,EIF2B4
+Neurological,"EIF2B5, LVWM, CACH, CLE"
+Dermatological,"KRT17, PC2, PCHC1"
+Dermatological,"KRT6B, PC2"
+Dermatological,KRT16
+Dermatological,KRT6A
+Bone,"TNFRSF11B, OPG, OCIF"
+Bone,"SQSTM1, P62, PDB3"
+Bone,"TNFRSF11A, RANK, ODFR, OFE"
+Neurological,"MAPT, MTBT1, DDPAC, MSTD"
+multiple,"GLI3, PAPA, PAPB, ACLS"
+Dermatological,KRT16
+Dermatological,KRT16
+Gastrointestinal,IPF1
+Cancer,"ARMET, ARP"
+Cancer,"BRCA2, FANCD1"
+Cancer,"TP53, P53, LFS1"
+Cancer,"MADH4, DPC4, SMAD4, JIP"
+Cancer,"CDKN2A, MTS1, P16, MLM, CMM2"
+Cancer,"ACVR1B, ACVRLK4, ALK4"
+Cancer,"STK11, PJS, LKB1"
+Cancer,"KRAS2, RASK2"
+Cancer,"RBBP8, RIM"
+Gastrointestinal,"PRSS1, TRY1"
+Gastrointestinal,"SPINK1, PSTI, PCTT, TATI"
+Gastrointestinal,"CFTR, ABCC7, CF, MRP7"
+Cancer,"BRCA1, PSCP"
+multiple,"CTSC, CPPI, PALS, PLS, HMS"
+Cancer,"SDHB, SDH1, SDHIP"
+Cancer,"SDHD, PGL1"
+Cancer,"SDHD, PGL1"
+Cancer,"SDHC, PGL3"
+Cancer,"SDHD, PGL1"
+Muscular,"SCN4A, HYPP, NAC1A"
+Cancer,MEN1
+Cancer,"HRPT2, C1orf28"
+Cancer,"HRPT2, C1orf28"
+Skeletal,"MSX2, CRS2, HOX8"
+Skeletal,"ALX4, PFM2, FPP"
+Skeletal,"MSX2, CRS2, HOX8"
+multiple,"RASA1, GAP, CMAVM, PKWS"
+Neurological,"NR4A2, NURR1, NOT, TINUR"
+Neurological,SNCAIP
+Neurological,"TBP, SCA17"
+Neurological,"SNCA, NACP, PARK1, PARK4"
+Neurological,"DJ1, PARK7"
+Neurological,"LRRK2, PARK8"
+Neurological,"PINK1, PARK6"
+Neurological,"UCHL1, PARK5"
+Neurological,"SNCA, NACP, PARK1, PARK4"
+Neurological,"PRKN, PARK2, PDJ"
+Neurological,DBH
+Neurological,NDUFV2
+Hematological,PIGA
+Neurological,"MR1, TAHCCP2, KIPP1184, BRP17, PNKD, FPD1, PDC, DYT8"
+Neurological,"ARX, ISSX, PRTS, MRXS1, MRX36, MRX54"
+Neurological,"SOX10, WS4"
+Hematological,"LBR, PHA"
+Neurological,"PLP1, PMD"
+Neurological,"GJA12, CX47, PMLDAR"
+"Ear,Nose,Throat","SLC26A4, PDS, DFNB4"
+Endocrine,"AR, DHTR, TFM, SBMA, KD, SMAX1"
+Immunological,"TNFRSF1A, TNFR1, TNFAR, FPF"
+"Ear,Nose,Throat","CTSC, CPPI, PALS, PLS, HMS"
+Neurological,"ARFGEF2, BIG2"
+multiple,"PEX6, PXAAA1, PAF2"
+multiple,"PEX6, PXAAA1, PAF2"
+multiple,PEX12
+Metabolic,"KCNJ11, BIR, PHHI"
+Developmental,"AMH, MIF"
+Developmental,"AMHR2, AMHR"
+Developmental,"PAX6, AN2, MGDA"
+Developmental,"CYP1B1, GLC3A"
+Cancer,"STK11, PJS, LKB1"
+Skeletal,"FGFR1, FLT2, KAL2"
+Skeletal,"FGFR2, BEK, CFD1, JWS"
+Metabolic,"PAH, PKU1"
+Metabolic,"QDPR, DHPR"
+Metabolic,PTS
+"Ear,Nose,Throat","TAS2R38, T2R61, PTC"
+Cancer,"SDHD, PGL1"
+Cancer,VHL
+Cancer,"SDHB, SDH1, SDHIP"
+Metabolic,PHGDH
+Metabolic,PRPS1
+Metabolic,PHKB
+Metabolic,PSP
+Neurological,"PSEN1, AD3"
+Dermatological,"KIT, PBT"
+Dermatological,"MATP, AIM1"
+Cancer,"PRKAR1A, TSE1, CNC1, CAR"
+Ophthamological,"CRB1, RP12"
+Cancer,CTNNB1
+Cancer,"GNAI2, GNAI2B, GIP"
+Cancer,"GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO"
+Cancer,"THRA, ERBA1, THRA1"
+multiple,GLI2
+Endocrine,"POU1F1, PIT1"
+Endocrine,PROP1
+Endocrine,"HESX1, RPX"
+Endocrine,LHX3
+Cancer,"PRKCA, PKCA"
+Unclassified,NOS3
+Metabolic,"STS, ARSC1, ARSC, SSDD"
+Hematological,"PLI, SERPINF2"
+Hematological,PLG
+Hematological,"PLA2G7, PAFAH"
+Hematological,"P2RY12, P2Y12"
+Hematological,"RUNX1, CBFA2, AML1"
+Hematological,CD36
+Respiratory,"SFTPC, SFTP2"
+Respiratory,"FLCN, BHD"
+Renal,"FCYT, PKHD1, ARPKD"
+Renal,PKD1
+Renal,"PKD2, PKD4"
+Renal,PKDTS
+Gastrointestinal,"PRKCSH, G19P1, PCLD"
+Gastrointestinal,SEC63
+Hematological,VHL
+Hematological,JAK2
+Skeletal,"GLI3, PAPA, PAPB, ACLS"
+Skeletal,"GLI3, PAPA, PAPB, ACLS"
+Neurological,"GPR56, TM7XN1, BFPP"
+Cancer,"BMPR1A, ACVRLK3, ALK3"
+Cancer,"MADH4, DPC4, SMAD4, JIP"
+multiple,"IRF6, VWS, LPS, PIT, PPS, OFC6"
+Neurological,COL4A1
+Metabolic,ALAD
+Metabolic,"HMBS, PBGD, UPS"
+Metabolic,"HMBS, PBGD, UPS"
+Metabolic,UROS
+Metabolic,UROD
+Metabolic,UROD
+Metabolic,"HFE, HLA-H, HFE1"
+Metabolic,PPOX
+Neurological,"MECP2, RTT, PPMX, MRX16, MRX79"
+multiple,NDN
+multiple,SNRPN
+Developmental,LHCGR
+Cardiovascular,"STOX1, PEE4"
+Cardiovascular,EPHX1
+Cardiovascular,"AGT, SERPINA8"
+Hematological,"KLKB1, KLK3"
+Neurological,MCPH1
+Renal,"DIAPH2, DIA, POF2"
+Renal,"FOXL2, BPES, BPES1, PFRK, POF3"
+Neurological,"ALS2, ALSJ, PLSJ, IAHSP"
+Neurological,"PRNP, PRIP"
+Ophthamological,"C10orf2, TWINKLE, PEO1, PEO"
+Ophthamological,"POLG, POLG1, POLGA, PEO"
+Ophthamological,"SLC25A4, ANT1, T1, PEO3"
+Metabolic,"CYP2C, CYP2C19"
+Endocrine,MEN1
+Connective tissue,PEPD
+Immunological,"PFC, PFD"
+Metabolic,PCCA
+Metabolic,PCCB
+Cancer,"RNASEL, RNS4, PRCA1, HPC1"
+Cancer,"BRCA2, FANCD1"
+Cancer,"PTEN, MMAC1"
+Cancer,"AR, DHTR, TFM, SBMA, KD, SMAX1"
+Cancer,"CHEK2, RAD53, CHK2, CDS1, LFS2"
+Cancer,MSR1
+Cancer,"EPHB2, EPHT3, DRT, ERK"
+Cancer,"KLF6, COPEB, BCD1, ZF9"
+Cancer,"MAD1L1, TXBP181"
+Cancer,"AR, DHTR, TFM, SBMA, KD, SMAX1"
+Cancer,ATBF1
+Cancer,"ELAC2, HPC2"
+Cancer,MXI1
+Hematological,PROS1
+Renal,"CLCN5, CLCK2, NPHL2, DENTS"
+Metabolic,"FECH, FCE"
+Metabolic,"FECH, FCE"
+multiple,"ARX, ISSX, PRTS, MRXS1, MRX36, MRX54"
+Skeletal,"COMP, EDM1, MED, PSACH"
+Developmental,"HSD17B3, EDH17B3"
+Developmental,LHCGR
+Endocrine,SCNN1A
+Endocrine,SCNN1B
+Endocrine,"SCNN1G, PHA1"
+Endocrine,"NR3C2, MLR, MCR"
+Endocrine,"WNK4, PRKWNK4, PHA2B"
+Endocrine,"WNK1, PRKWNK1, KDP, PHA2C"
+Endocrine,"GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO"
+Endocrine,"GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO"
+Unclassified,SRD5A2
+Bone,"CYP27B1, PDDR, VDD1"
+Connective tissue,"ABCC6, ARA, ABC34, MLP1, PXE"
+Connective tissue,"ABCC6, ARA, ABC34, MLP1, PXE"
+Dermatological,PSORS6
+Dermatological,"CARD15, NOD2, IBD1, CD, ACUG, PSORAS1"
+Respiratory,CSF2RB
+Respiratory,"SFTPC, SFTP2"
+Respiratory,"SFTPB, SFTB3"
+Respiratory,"SFTPC, SFTP2"
+Respiratory,"SFTPA1, SFTP1"
+Cardiovascular,"BMPR2, PPH1"
+Skeletal,CTSK
+Developmental,NOS1
+Dermatological,"PSTPIP1, PSTPIP, CD2BP1, PAPAS"
+Hematological,SPTA1
+Metabolic,PC
+Metabolic,"PDHA1, PHE1A"
+Metabolic,PDHB
+multiple,INSR
+multiple,"HOXA11, HOX1I"
+multiple,"RECQL4, RTS, RECQ4"
+Immunological,"CX3CR1, GPR13, V28"
+multiple,"TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS"
+Dermatological,MC1R
+Neurological,"PEX7, RCDP1"
+Neurological,"PHYH, PAHX"
+Neurological,"PEX1, ZWS1"
+Neurological,PEX26
+Neurological,"PXMP3, PAF1, PMP35, PEX2"
+Cancer,"FLCN, BHD"
+Cancer,"TRC8, RCA1, HRCA1"
+Cancer,OGG1
+Cancer,"PRCC, RCCP1"
+Cancer,TFE3
+Cancer,MET
+Cancer,VHL
+Renal,"SLC5A2, SGLT2"
+Renal,PAX2
+Renal,"SLC4A1, AE1, EPB3"
+Renal,"ATP6V0A4, ATP6N1B, VPP2, RTA1C, RTADR"
+Renal,CA2
+Renal,"SLC4A4, NBC1, KNBC, SLC4A5"
+Renal,"ATP6B1, VPP3"
+Renal,"ACE, DCP1, ACE1"
+Renal,"AGTR1, AGTR1A, AT2R1"
+Renal,"AGT, SERPINA8"
+Renal,REN
+Neurological,"PQBP1, NPW38, SHS, MRX55, MRXS3, RENS1, MRXS8"
+Neurological,OPRM1
+Cardiovascular,"ADRB1, ADRB1R, RHR"
+Dermatological,"ZMPSTE24, FACE1, STE24, MADB"
+Ophthamological,"NRL, D14S46E, RP27"
+Ophthamological,"PROM1, PROML1, AC133"
+Ophthamological,"C1QTNF5, CTRP5, LORD"
+Ophthamological,LRAT
+Ophthamological,IMPDH1
+Ophthamological,"PRPF31, PRP31"
+Ophthamological,"RP1, ORP1"
+Ophthamological,"CRB1, RP12"
+Ophthamological,"PRPF8, PRPC8, RP13"
+Ophthamological,"TULP1, RP14"
+Ophthamological,"CA4, RP17"
+Ophthamological,"HPRP3, RP18"
+Ophthamological,"ABCA4, ABCR, STGD1, FFM, RP19"
+Ophthamological,"RPE65, RP20"
+Ophthamological,RP2
+Ophthamological,CERKL
+Ophthamological,"NRL, D14S46E, RP27"
+Ophthamological,"FSCN2, RFSN"
+Ophthamological,"RPGR, RP3, CRD, RP15, COD1"
+Ophthamological,"RHO, RP4, OPN2"
+Ophthamological,"RDS, RP7, PRPH2, PRPH, AVMD, AOFMD"
+Ophthamological,RP9
+Ophthamological,RLBP1
+Ophthamological,USH2A
+Ophthamological,RGR
+Ophthamological,"CNGB1, CNCG3L, CNCG2"
+Ophthamological,"CNGA1, CNCG1"
+Ophthamological,"PDE6A, PDEA"
+Ophthamological,"PDE6B, PDEB, CSNB3"
+Ophthamological,RGR
+Ophthamological,"RHO, RP4, OPN2"
+Ophthamological,"ROM1, ROSP1"
+Ophthamological,"RDS, RP7, PRPH2, PRPH, AVMD, AOFMD"
+Ophthamological,"AIPL1, LCA4"
+Ophthamological,"NR2E3, PNR, ESCS"
+Ophthamological,"CRX, CORD2, CRD"
+Ophthamological,MERTK
+Ophthamological,"RPGR, RP3, CRD, RP15, COD1"
+Ophthamological,"RPGR, RP3, CRD, RP15, COD1"
+Ophthamological,"RDS, RP7, PRPH2, PRPH, AVMD, AOFMD"
+Ophthamological,RLBP1
+Cancer,RB1
+Ophthamological,RBP4
+Ophthamological,"RS1, XLRS1"
+Neurological,"MECP2, RTT, PPMX, MRX16, MRX79"
+Neurological,"CDKL5, STK9"
+Neurological,"MECP2, RTT, PPMX, MRX16, MRX79"
+Cancer,"SMARCB1, SNF5, INI1, RDT"
+Cancer,"SMARCB1, SNF5, INI1, RDT"
+Cancer,"SLC22A1L, BWSCR1A, IMPT1"
+Cancer,"FOXO1A, FKHR"
+Cancer,"PAX3, WS1, HUP2, CDHS"
+Cancer,PAX7
+Connective tissue,"IL10, CSIF"
+Connective tissue,"MHC2TA, C2TA"
+Connective tissue,NFKBIL1
+Connective tissue,"PADI4, PADI5, PAD"
+Connective tissue,"PTPN8, PEP, PTPN22, LYP"
+Connective tissue,"RUNX1, CBFA2, AML1"
+Connective tissue,"SLC22A4, OCTN1"
+Connective tissue,MIF
+multiple,"PEX7, RCDP1"
+multiple,"AGPS, ADHAPS"
+Hematological,"RHAG, RH50A"
+Hematological,RHD
+Hematological,RHCE
+Metabolic,"RPIA, RPI"
+Bone,CYP2R1
+Bone,VDR
+Bone,VDR
+multiple,"FOXC1, FKHL7, FREAC3"
+multiple,"PITX2, IDG2, RIEG1, RGS, IGDS2"
+Ophthamological,"PITX2, IDG2, RIEG1, RGS, IGDS2"
+Muscular,"CAV3, LGMD1C"
+Developmental,ESCO2
+multiple,"ROR2, BDB1, BDB, NTRKR2"
+Developmental,WNT4
+multiple,"RECQL4, RTS, RECQ4"
+multiple,"MPZ, CMT1B, CMTDI3, CHM, DSS"
+multiple,"PMP22, CMT1A, CMT1E, DSS"
+multiple,"CREBBP, CBP, RSTS"
+multiple,EP300
+Developmental,"FGFR2, BEK, CFD1, JWS"
+Developmental,"TWIST, ACS3, SCS"
+Developmental,"TWIST, ACS3, SCS"
+Cancer,"HMGA2, HMGIC, BABL, LIPO"
+Metabolic,"SLC17A5, SIASD, SLD"
+Metabolic,HEXB
+Metabolic,"SGSH, MPS3A, SFMD"
+Metabolic,NAGLU
+Immunological,"CARD15, NOD2, IBD1, CD, ACUG, PSORAS1"
+Immunological,BTNL2
+Immunological,HLA-DR1B
+Cancer,"SSX1, SSRC"
+Cancer,SSX2
+Immunological,"ACE, DCP1, ACE1"
+Connective tissue,"SMARCAL1, HARP, SIOD"
+Metabolic,NAGA
+Metabolic,NAGA
+Neurological,EMX2
+Psychiatric,DISC1
+Psychiatric,TRAR4
+Psychiatric,"APP, AAA, CVAP, AD1"
+Psychiatric,COMT
+Psychiatric,DISC1
+Psychiatric,HTR2A
+Psychiatric,"RTN4R, NOGOR"
+Psychiatric,SYN2
+Psychiatric,"EPN4, EPNR, KIAA0171, SCZD1"
+Psychiatric,"PRODH, PRODH2, SCZD4"
+Cancer,NF2
+multiple,"HSPG2, PLC, SJS, SJA, SJS1"
+Immunological,"JAK3, JAKL"
+Skeletal,SOST
+Nutritional,"GULOP, GULO"
+Hematological,"APOE, AD2"
+Psychiatric,HTR2A
+Hematological,"MYH9, MHA, FTNS, DFNA17"
+Developmental,"ATR, FRP1, SCKL"
+Neurological,"TH, TYH"
+Neurological,"SCN2A1, SCN2A"
+Neurological,"SCN2A1, SCN2A"
+Immunological,"ZAP70, SRK, STD"
+Dermatological,"TGM1, ICR2, LI1"
+Connective tissue,"PAPSS2, ATPSK2"
+Renal,"NPHP1, NPH1, SLSN1"
+Renal,"NPHP4, SLSN4"
+Renal,"IQCB1, NPHP5, KIAA0036"
+Ophthamological,"POLG, POLG1, POLGA, PEO"
+Metabolic,SPR
+Immunological,"CASP12, CASP12P1"
+Immunological,"TNF, TNFA"
+multiple,"HESX1, RPX"
+Renal,USP26
+Immunological,"DCLRE1C, ARTEMIS, SCIDA"
+Immunological,RAG1
+Immunological,RAG2
+Immunological,ADA
+Immunological,"PTPRC, CD45, LCA"
+Immunological,IL7R
+Immunological,"CD3D, T3D"
+Immunological,"IL2RG, SCIDX1, SCIDX, IMD4"
+Unclassified,"FTZF1, FTZ1, SF1"
+Cancer,BCL10
+multiple,EDN3
+Skeletal,GHR
+Skeletal,GHR
+Skeletal,"SHOX, GCFX, SS, PHOG"
+Skeletal,SHOXY
+Skeletal,LHX4
+multiple,"FBN1, MFS1, WMS"
+multiple,"SBDS, SDS"
+Metabolic,"SLC17A5, SIASD, SLD"
+Metabolic,"NEU1, NEU, SIAL1"
+Metabolic,"NEU1, NEU, SIAL1"
+Metabolic,"GNE, GLCNE, IBM2, DMRV, NM"
+Hematological,HBB
+Cardiovascular,"SCN5A, LQT3, IVF, HB1, SSS1"
+Neurological,"BSCL2, SPG17"
+multiple,"GPC3, SDYS, SGBS1"
+Metabolic,ABCG5
+Metabolic,ABCG8
+Developmental,NODAL
+Developmental,"DNAH11, DNAHC11"
+Metabolic,"ALDH3A2, ALDH10, SLS, FALDH"
+Dermatological,"DSP, KPPS2, PPKS2"
+Metabolic,"NAT2, AAC2"
+Neurological,"ARHGEF10, KIAA0294"
+Skeletal,TBX4
+Skeletal,COL2A1
+multiple,"ATRX, XH2, XNP, MRXS3, SHS"
+multiple,"DHCR7, SLOS"
+multiple,"RAI1, SMCR, SMS"
+Skeletal,"DYM, FLJ90130, DMC, SMC"
+Skeletal,"SHH, HPE3, HLP3, SMMCI"
+Endocrine,"GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO"
+Ophthamological,"TIMP3, SFD"
+Developmental,"NSD1, ARA267, STO"
+Neurological,"SACS, ARSACS"
+Neurological,"ALS2, ALSJ, PLSJ, IAHSP"
+Neurological,"KIF5A, NKHC, SPG10"
+Neurological,"HSPD1, SPG13, HSP60"
+Neurological,"PLP1, PMD"
+Neurological,SPG3A
+Neurological,"SPG4, SPAST"
+Neurological,"NIPA1, SPG6"
+Neurological,"PGN, SPG7, CMAR, CAR"
+Immunological,"CEBPE, CRP1"
+Neurological,"FOXP2, SPCH1, TNRC10, CAGH44"
+Renal,"DAZL, DAZH, SPGYLA"
+Hematological,SPTB
+Hematological,"ANK1, SPH2"
+Hematological,"SLC4A1, AE1, EPB3"
+Hematological,EPB42
+Hematological,SPTA1
+Developmental,"MTHFD, MTHFC"
+Developmental,MTR
+Developmental,MTRR
+Muscular,"AR, DHTR, TFM, SBMA, KD, SMAX1"
+Muscular,"VAPB, VAPC, ALS8"
+Muscular,"SMN1, SMA1, SMA2, SMA3, SMA4"
+Muscular,"SMN1, SMA1, SMA2, SMA3, SMA4"
+Muscular,"SMN1, SMA1, SMA2, SMA3, SMA4"
+Muscular,"SMN1, SMA1, SMA2, SMA3, SMA4"
+Muscular,"BSCL2, SPG17"
+Muscular,"GARS, SMAD1, CMT2D"
+Muscular,HEXB
+Muscular,"IGHMBP2, SMUBP2, CATF1, SMARD1"
+Neurological,"ATXN10, SCA10"
+Neurological,"ATXN1, ATX1, SCA1"
+Neurological,PPP2R2B
+Neurological,"PRKCG, PKCC, PKCG, SCA14"
+Neurological,"TBP, SCA17"
+Neurological,"ATXN2, ATX2, SCA2"
+Neurological,SCA25
+Neurological,"FGF14, FHF4, SCA27"
+Neurological,PLEKHG4
+Neurological,"CACNA1A, CACNL1A4, SCA6"
+Neurological,"ATXN7, SCA7, OPCA3"
+Neurological,SCA8
+Neurological,TDP1
+Skeletal,"SHFM3, DAC"
+Skeletal,"TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS"
+Skeletal,"FLNB, SCT, AOI"
+Skeletal,"DLL3, SCDO1"
+Skeletal,MESP2
+Skeletal,"MATN3, EDM5, HOA"
+Skeletal,"AGC1, CSPG1, MSK16, SEDK"
+Skeletal,"CHST3, C6ST, C6ST1"
+Skeletal,"SEDL, SEDT"
+Skeletal,"WISP3, PPAC, PPD"
+Skeletal,COL10A1
+Cancer,"TNFRSF6, APT1, FAS, CD95, ALPS1A"
+Cancer,ING1
+Cancer,"TNFRSF10B, DR5, TRAILR2"
+multiple,"NOG, SYM1, SYNS1"
+Ophthamological,"ABCA4, ABCR, STGD1, FFM, RP19"
+Ophthamological,"ELOVL4, ADMD, STGD2, STGD3"
+Neurological,"GLRA1, STHE"
+Neurological,"GLRA1, STHE"
+Unclassified,STAT1
+Metabolic,HMGCR
+Dermatological,"KRT17, PC2, PCHC1"
+Cancer,"ZNF198, SCLL, RAMP, FIM"
+Dermatological,HLA-B
+multiple,COL2A1
+multiple,"COL11A1, STL2"
+multiple,"COL11A2, STL3, DFNA13"
+Cancer,"KRAS2, RASK2"
+Cardiovascular,"PDE4D, DPDE3, STRK1"
+Cardiovascular,"ALOX5AP, FLAP"
+multiple,"LIFR, STWS, SWS, SJS2"
+Neurological,"DCX, DBCN, LISX"
+Neurological,"PAFAH1B1, LIS1"
+Metabolic,SSADH
+Metabolic,SI
+Unclassified,"TSPYL1, TSPYL, SIDDT"
+Metabolic,SUOX
+Unclassified,SOD3
+Neurological,"MAPT, MTBT1, DDPAC, MSTD"
+Neurological,"MAPT, MTBT1, DDPAC, MSTD"
+Cardiovascular,ELN
+Respiratory,"ABCA3, ABC3"
+Respiratory,"SFTPC, SFTP2"
+multiple,"ATRX, XH2, XNP, MRXS3, SHS"
+Unclassified,"CFTR, ABCC7, CF, MRP7"
+Skeletal,"NOG, SYM1, SYNS1"
+Skeletal,"GJA1, CX43, ODDD, SDTY3, ODOD"
+multiple,"NOG, SYM1, SYNS1"
+Skeletal,FBLN1
+Skeletal,"HOXD13, HOX4I, SPD"
+Skeletal,"HOXD13, HOX4I, SPD"
+Immunological,"TNFSF6, APT1LG1, FASL"
+Immunological,"DNASE1, DNL1"
+Immunological,"PTPN8, PEP, PTPN22, LYP"
+Immunological,"PDCD1, SLEB2"
+Skeletal,MCM6
+Metabolic,"ABCA1, ABC1, HDLDT1, TGD"
+Skeletal,"NOG, SYM1, SYNS1"
+Neurological,"MAPT, MTBT1, DDPAC, MSTD"
+Metabolic,"HEXA, TSD"
+Cancer,BAX
+Immunological,WHN
+Cancer,"ATM, ATA, AT1"
+Unclassified,DAD1
+multiple,"WNT3, INT4"
+Cardiovascular,"JAG1, AGS, AHD"
+Cardiovascular,"ZFPM2, FOG2"
+Cardiovascular,"NKX2E, CSX"
+Hematological,HBA2
+Hematological,HBB
+Hematological,HBD
+Hematological,HBD
+Hematological,LCRB
+Hematological,HBA1
+Hematological,HBB
+Skeletal,"FGFR3, ACH"
+Hematological,"SLC19A2, THTR1"
+Hematological,JAK2
+Hematological,"THPO, MGDF, MPLLG, TPO"
+Hematological,"FLJ14813, THC2"
+Hematological,"MPL, TPOR, MPLV"
+Hematological,"WAS, IMD2, THC"
+Hematological,"WAS, IMD2, THC"
+Hematological,F5
+Hematological,F5
+Hematological,"HCF2, HC2, SERPIND1"
+Hematological,HRG
+Hematological,PROC
+Hematological,"THBD, THRM"
+Hematological,FGB
+Hematological,FGG
+Hematological,CBS
+Hematological,"ADAMTS13, VWFCP, TTP"
+Hematological,"MPL, TPOR, MPLV"
+Metabolic,"DPYD, DPD"
+Cancer,TSHR
+Cancer,"TP53, P53, LFS1"
+Cancer,"MINPP1, HIPER1"
+Cancer,"PTEN, MMAC1"
+Cancer,HRAS
+Cancer,"GOLGA5, RFG5, PTC5"
+Cancer,"NCOA4, ELE1, PTC3"
+Cancer,"PCM1, PTC4"
+Cancer,"PRKAR1A, TSE1, CNC1, CAR"
+Cancer,"TIF1G, RFG7, PTC7"
+Cancer,"TRIM24, TIF1, TIF1A, PTC6"
+Endocrine,"TPO, TPX"
+Endocrine,"THRB, ERBA2, THR1"
+Endocrine,"THRB, ERBA2, THR1"
+Endocrine,"CACNA1S, CACNL1A3, CCHL1A3"
+Endocrine,TRHR
+Hematological,TBG
+multiple,"MITF, WS2A"
+multiple,"CACNA1C, CACNL1A1, CCHL1A1, TS"
+Dermatological,COL7A1
+Unclassified,CYP2C9
+Endocrine,"TPO, TPX"
+multiple,"SALL1, HSAL1, TBS"
+multiple,"SALL1, HSAL1, TBS"
+Metabolic,TALDO1
+Hematological,"TCN2, TC2"
+Dermatological,COL7A1
+Developmental,"CFC1, CRYPTIC, HTX2"
+Developmental,"THRAP2, PROSIT240, TRAP240L, KIAA1025"
+Developmental,"TCOF1, MFD1"
+Neurological,"HS1BP3, FLJ14249, ETM2"
+multiple,"DLX3, TDO"
+Developmental,TRPS1
+Developmental,TRPS1
+Dermatological,"ERCC3, XPB"
+Dermatological,"ERCC2, EM9"
+Dermatological,"TGF2H5, TTDA, TFB5, C6orf175"
+Dermatological,"TTDN1, C7orf11, ABHS"
+Metabolic,"HADHA, MTPA"
+Metabolic,HADHB
+multiple,MYH8
+Gastrointestinal,"SPINK1, PSTI, PCTT, TATI"
+Neurological,SPG20
+multiple,IFNG
+Respiratory,IFNGR1
+Respiratory,IFNG
+multiple,"TSC1, LAM"
+multiple,"TSC2, LAM"
+Cancer,"APC, GS, FPC"
+Cancer,"MLH1, COCA2, HNPCC2"
+Cancer,"PMS2, PMSL2, HNPCC4"
+Unclassified,"FSHR, ODG1"
+Metabolic,FAH
+Metabolic,TAT
+Metabolic,HPD
+Muscular,"COL6A1, OPLL"
+Muscular,COL6A3
+Muscular,COL6A2
+multiple,TBX3
+Psychiatric,"TPH2, NTPH"
+Dermatological,KRT1
+Metabolic,APRT
+Metabolic,"SLC17A2, NPT2"
+multiple,"MYO7A, USH1B, DFNB2, DFNA11"
+multiple,"USH1C, DFNB18"
+multiple,"CDH23, USH1D"
+multiple,"PCDH15, DFNB23"
+multiple,"SANS, USH1G"
+multiple,USH2A
+multiple,"USH3A, USH3"
+multiple,"MASS1, VLGR1, KIAA0686, FEB4, USH2C"
+Cancer,"HMGA2, HMGIC, BABL, LIPO"
+Dermatological,MC1R
+Unclassified,"LRP5, BMND1, LRP7, LR3, OPPG, VBCH2"
+Developmental,"IRF6, VWS, LPS, PIT, PPS, OFC6"
+multiple,"PTEN, MMAC1"
+multiple,"TBX1, DGS, CTHM, CAFS, TGA, DORV, VCFS, DGCR"
+Cardiovascular,"TEK, TIE2, VMCM"
+Cardiovascular,"SERPINA10, ZPI"
+Cardiovascular,"SCN5A, LQT3, IVF, HB1, SSS1"
+Cardiovascular,"GNAI2, GNAI2B, GIP"
+Cardiovascular,CASQ2
+Cardiovascular,"RYR2, VTSIP"
+Skeletal,"HOXD10, HOX4D"
+Immunological,"FCGR3A, CD16, IGFR3"
+Immunological,"OAS1, OIAS"
+Developmental,"CYP19A1, CYP19, ARO"
+Hematological,"VKORC1, VKOR, VKCFD2, FLJ00289"
+Hematological,GGCX
+Ophthamological,VMD2
+Metabolic,"ACADVL, VLCAD"
+multiple,"GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID"
+multiple,LOR
+Cancer,"CCND1, PRAD1, BCL1"
+Cancer,VHL
+Hematological,"VWF, F8VWF"
+multiple,"EDNRB, HSCR2, ABCDS"
+multiple,"SOX10, WS4"
+multiple,TYR
+multiple,"MITF, WS2A"
+multiple,"PAX3, WS1, HUP2, CDHS"
+multiple,"MITF, WS2A"
+multiple,"PAX3, WS1, HUP2, CDHS"
+multiple,"SNAI2, SLUG, WS2D"
+Ophthamological,COL2A1
+multiple,WT1
+multiple,FCMD
+multiple,POMT1
+multiple,"RAB3GAP, WARBM1, P130"
+Hematological,"VKORC1, VKOR, VKCFD2, FLJ00289"
+Hematological,CYP2C9
+Hematological,"F9, HEMB"
+Cancer,"NF1, VRNF, WSS, NFNS"
+Developmental,"NSD1, ARA267, STO"
+Immunological,"TAP2, ABCB3, PSF2, RING11"
+Connective tissue,"FBN1, MFS1, WMS"
+Connective tissue,"ADAMTS10, WMS"
+Connective tissue,"COL11A2, STL3, DFNA13"
+multiple,"RECQL2, RECQ3, WRN"
+Metabolic,TKT
+Skeletal,EVC
+Immunological,"CXCR4, D2S201E, NPY3R, WHIM"
+Connective tissue,KRT13
+Connective tissue,"KRT4, CYK4"
+multiple,ELN
+Cancer,"BRCA2, FANCD1"
+Cancer,"GPC3, SDYS, SGBS1"
+Cancer,"POU6F2, WTSL, WT5"
+Cancer,WT1
+Metabolic,"ATP7B, WND"
+Immunological,"WAS, IMD2, THC"
+Developmental,"MSX1, HOX7, HYD1, OFC5"
+Bone,"EIF2AK3, PEK, PERK, WRS"
+Cardiovascular,"PRKAG2, WPWS"
+Metabolic,"WFS1, WFRS, WFS, DFNA6"
+Metabolic,LIPA
+Metabolic,XDH
+Dermatological,XPA
+Dermatological,"ERCC3, XPB"
+Dermatological,"XPC, XPCC"
+Dermatological,"ERCC2, EM9"
+Dermatological,DDB2
+Dermatological,"ERCC4, XPF"
+Dermatological,"ERCC5, XPG"
+Dermatological,"POLH, XPV"
+Unclassified,"XIC, XCE, XIST, SXI1"
+Immunological,"BTK, AGMX1, IMD1, XLA, AT"
+Immunological,"FOXC2, FKHL14, MFH1"
+multiple,"SOX10, WS4"
+multiple,"PEX1, ZWS1"
+multiple,"PEX10, NALD"
+multiple,"PEX13, ZWS, NALD"
+multiple,PEX14
+multiple,PEX26
+multiple,"PXF, HK33, D1S2223E, PEX19"
+multiple,"PXR1, PEX5, PTS1R"
+multiple,"ABCD3, PXMP1, PMP70"
+multiple,"PXMP3, PAF1, PMP35, PEX2"
+multiple,PEX16
+multiple,PEX3
+multiple,"HVEC, PVRL1, PVRR1, PRR1"

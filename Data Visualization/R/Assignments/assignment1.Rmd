@@ -1,0 +1,84 @@
+---
+# title: "essay, one-paged-note, homework"
+# subtitle: "subtitle"
+# author: "심민규 `mksim@seoultech.ac.kr`"
+# date: "Lastly updated on `r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    highlight: haddock
+    keep_tex: yes
+    includes:
+      in_header: latex_support/latex-topmatter_pdf.tex
+    # toc: yes # table of contents yes/no/True/False
+    # toc_depth: 2 # toc depth 1 or 2 recommended
+    number_sections: yes # yes/no/True/False
+  html_document:
+    toc: yes
+    toc_depth: '1'
+    df_print: paged
+monofont: Courier New # Consolas or Courier New
+smaller: yes
+classoption: a4paper # letter or a4paper
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=1.17}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+<!-- \begin{center} -->
+<!-- \vspace{100pt} -->
+<!-- \includegraphics[height=0.3in]{latex_support/logo_ds.png}  -->
+<!-- \end{center} -->
+
+\begin{center}
+\begin{Large}
+Data Science in Pharmaceutical R\&D\\ 
+\end{Large}
+\begin{large}
+Applying machine learning to identify clinical features with potential to replace Dopamine transporters in the diagnosis of Parkinson Disease.
+\end{large}
+\end{center}
+
+
+A Dopamine transporter scan (DScan) is commonly used to diagnose Parkinson's Disease. However, DScans are expensive and thus finding other clinical features associated with DScan decrease is important to reduce cost both for patients and health care providers. This project tries to answer what are those features and if they can be used in an effective prediction model.
+
+The Hoehn and Yahr motor score (NHY), the Unified Parkinson Disease Rating Score (NUPDRS3) when measured by physicians and the University of Pennsylvania Smell Identification score (UPSIT4) were found to successfully predict Parkinson Disease in > 95% of cases.
+
+
++ The initial dataset showed entries for 179 healthy patients (HC) and 300 patients with Parkinson Disease (PD).
++ Of the initial 76 numerical features in the dataset only 6 showed correlation with decrease in DScan and were further selected for linear regression analysis.
++ For categorical features, out of 17 initial features only 3 were considered for the predictive model.
++ The categorical feature Skin disorder was found to be a relevant predictor of DScan (Table 1) but it was not strongly associated to either HC or PD labels. Therefore, it was not considered for the final model.
++ The numerical variable NUPDRS3 did not show significance (p-value> 0.05) but was eventually considered for the final model (Table 1).
++ Several Classification Models were surveyed but non showed significant difference so simple logistic regression model was selected as the predictor.
+
+
+Table 1: Significance results for DScan predictive model before and after feature deletion. 
+
+|Feature      | p-value before  | p-value after |
+|:------------|:---------------:|--------------:|
+|NHY          |0.012            |0.010          |
+|NUPDRS3      |0.908            |0.900          |
+|UPSIT4       |0.002            |0.001          |
+|RB Disorder  |0.925            |deleted        |
+|Neurological |0.990            |deleted        |
+|Skin         |0.030            |0.026          |
+
+
+
+
+
+\newpage
+
+```{r, echo=TRUE, results='hide'}
+"Written by Carlos Vintimilla"
+```
+
+

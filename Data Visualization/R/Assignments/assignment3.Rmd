@@ -1,0 +1,91 @@
+---
+# title: "essay, one-paged-note, homework"
+# subtitle: "subtitle"
+# author: "심민규 `mksim@seoultech.ac.kr`"
+# date: "Lastly updated on `r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    highlight: haddock
+    keep_tex: yes
+    includes:
+      in_header: latex_support/latex-topmatter_pdf.tex
+    # toc: yes # table of contents yes/no/True/False
+    # toc_depth: 2 # toc depth 1 or 2 recommended
+    number_sections: yes # yes/no/True/False
+  html_document:
+    toc: yes
+    toc_depth: '1'
+    df_print: paged
+monofont: Courier New # Consolas or Courier New
+smaller: yes
+classoption: a4paper # letter or a4paper
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=1.17}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+<!-- \begin{center} -->
+<!-- \vspace{100pt} -->
+<!-- \includegraphics[height=0.3in]{latex_support/logo_ds.png}  -->
+<!-- \end{center} -->
+
+\begin{center}
+\begin{large}
+\textbf{Relationship between the age of the plane and its delay time}
+\end{large}
+\end{center}
+
+
+This report investigates the relationship between an airplane's age and its arrival/departure delay time. I analyzed delay times for all flights leaving New York City during 2013 using visualization and statistical tools. The results show no relationship between a plane's age and its delay time.
+___________________________________________________________________________________________
+
+\underline{\textbf{Dataset}}
+
+The dataset used is called 'nycflights13' and has information on more than 300k flights including date, delay time, carrier,  flight number, etc. The dataset also includes metadata on airlines, airports, weather and planes.  
+
+
+\underline{\textbf{Methodology}}
+
+For each flight, the plane manufacture year and decade was annotated. Only positive departure and arrival delay times were considered (negative values represent early departures/arrivals). Pearson's Correlation was performed between delay time and manufactured year, while multinomial logistic regression was conducted for planes manufactured decade. 
+
+
+\underline{\textbf{Results}}
+
+Pearson correlation coefficient showed no statistical association between a plane's age and its departure/arrival delay time (p=0.05). Multinomial logistic regression did not find any statistical evidence linking delay time and a plane's manufactured decade (p=0.05). 
+
+
+```{r, figures-side,fig.show='hold', out.width="49%", fig.align="center"}
+knitr::include_graphics("graph2.png")
+knitr::include_graphics("graph3.png")
+```   
+\begin{center}
+\begin{small}
+\textbf{Figure 1.} \textbf{Left:} Average delay time according to the plane's manufactured decade \textbf{Right:} Average arrival delay (red line) and number of delayed flights by manufactured year (orange bars). Older planes have less flights but it's delay average time remains constant.
+\end{small}
+\end{center}
+\underline{\textbf{Conclusions}}
+
+There is no visual or statistical evidence suggesting a relationship between a plane's age and it's departure/arrival delay time. This results suggests that delay time for flights departing NYC in 2013 are influenced by other variables except for a plane's age.
+
+___________________________________________________________________________________________
+\begin{footnotesize}
+Wickham H (2022). nycflights13: Flights that Departed NYC in 2013. R package version 1.0.2, https://github.com/hadley/nycflights13.
+\end{footnotesize}
+
+
+
+\newpage
+
+```{r, echo=TRUE, results='hide'}
+"Written by Carlos Vintimilla"
+```
+
+

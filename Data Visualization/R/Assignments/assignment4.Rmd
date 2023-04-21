@@ -1,0 +1,88 @@
+---
+# title: "essay, one-paged-note, homework"
+# subtitle: "subtitle"
+# author: "심민규 `mksim@seoultech.ac.kr`"
+# date: "Lastly updated on `r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    highlight: haddock
+    keep_tex: yes
+    includes:
+      in_header: latex_support/latex-topmatter_pdf.tex
+    # toc: yes # table of contents yes/no/True/False
+    # toc_depth: 2 # toc depth 1 or 2 recommended
+    number_sections: yes # yes/no/True/False
+  html_document:
+    toc: yes
+    toc_depth: '1'
+    df_print: paged
+monofont: Courier New # Consolas or Courier New
+smaller: yes
+classoption: a4paper # letter or a4paper
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=1.17}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+<!-- \begin{center} -->
+<!-- \vspace{100pt} -->
+<!-- \includegraphics[height=0.3in]{latex_support/logo_ds.png}  -->
+<!-- \end{center} -->
+
+\begin{center}
+\begin{large}
+\textbf{Are the ISO country codes redundant in the 2014 WHO Global Tuberculosis Report Dataset?}
+\end{large}
+\end{center}
+
+
+Yes, the ISO codes in the 2014 WHO Global Tuberculosis Report Dataset are fully redundant with the country name. Both ISO codes can be dropped from the dataset without losing any information. 
+___________________________________________________________________________________________
+
+\underline{\textbf{Dataset}}
+
+The dataset used is the 2014 WHO Global Tuberculosis Report Dataset which includes data of the number of cases for 56 tuberculosis variants since 1980 for 219 countries. 
+
+
+\underline{\textbf{Methodology}}
+
+Given the dataset if we select only the country and ISO codes variables and then proceed to group by country we will get one distinct pattern if the data is redundant and multiple if it is not. 
+
+    #Command used to retrieve distinct events in the dataset
+    
+    select(dataset, country, iso2, iso3) %>%
+     distinct() %>%
+     group_by(country) %>%
+     filter(n() > 1)
+
+\underline{\textbf{Results}}
+
+After applying the tidyverse distinct function we do not get any distinct patterns which means the ISO codes are completely redundant with the country name, as expected.
+
+\underline{\textbf{Conclusion}}
+
+The ISO codes are redundant and thus can be dropped without losing any information. The people who made the data set made no mistakes when inputing the ISO codes. 
+
+\vspace{50mm}
+_______________________________________________________________________________________
+\begin{footnotesize}
+Wickham H (2022). World Health Organization TB data. R package version 1.0.2, https://tidyr.tidyverse.org/reference/who.html
+\end{footnotesize}
+
+
+
+\newpage
+
+```{r, echo=TRUE, results='hide'}
+"Written by Carlos Vintimilla"
+```
+
+

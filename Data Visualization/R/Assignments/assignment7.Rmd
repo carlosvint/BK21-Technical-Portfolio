@@ -1,0 +1,85 @@
+---
+# title: "essay, one-paged-note, homework"
+# subtitle: "subtitle"
+# author: "심민규 `mksim@seoultech.ac.kr`"
+# date: "Lastly updated on `r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    highlight: haddock
+    keep_tex: yes
+    includes:
+      in_header: latex_support/latex-topmatter_pdf.tex
+    # toc: yes # table of contents yes/no/True/False
+    # toc_depth: 2 # toc depth 1 or 2 recommended
+    number_sections: yes # yes/no/True/False
+  html_document:
+    toc: yes
+    toc_depth: '1'
+    df_print: paged
+monofont: Courier New # Consolas or Courier New
+smaller: yes
+classoption: a4paper # letter or a4paper
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=1.17}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+<!-- \begin{center} -->
+<!-- \vspace{100pt} -->
+<!-- \includegraphics[height=0.3in]{latex_support/logo_ds.png}  -->
+<!-- \end{center} -->
+
+\begin{center}
+\begin{large}
+\textbf{Assignment 7}
+\end{large}
+\end{center}
+
+\textbf{1. Analyze Fig.9 in terms of the three step framework.}
+
+\textbf{What}
+
+A car's fuel efficiency on the highway measured on miles per gallon, the size of a car's engine in liters and the type/class of car.
+
+\textbf{Why} 
+
+To visualize the relationship between a car's fuel efficiency on the highway and the car's engine size for the different classes in the dataset.
+
+\textbf{How} 
+
+A dot representing a specific data point with fuel efficiency on the y axis and engine size on the x axis. Colored dots to represent the class of the car and lines of different styles to illustrate the tendency for each class. The line color corresponds to the class of the car, just like the dots.
+
+```{r, eval=FALSE, echo=TRUE}
+fig9 <- ggplot(data = mpg, mapping = aes(x = displ, y = hwy, color=class)) +
+  geom_point() + geom_smooth(aes(linetype = class), se = FALSE)
+fig9 + labs(title= "Engine Size vs Fuel Efficiency", 
+            subtitle= "Figure 9",
+            x = "Engine Size (L)",
+            y = "Fuel Efficiency (mpg)") + theme(legend.position = "top")
+```  
+```{r, out.height="100%", out.width="100%", fig.align="center"}
+knitr::include_graphics("figure7.png")
+``` 
+
+
+
+
+
+
+
+
+\newpage
+
+```{r, echo=TRUE, results='hide'}
+"Written by Carlos Vintimilla"
+```
+
+

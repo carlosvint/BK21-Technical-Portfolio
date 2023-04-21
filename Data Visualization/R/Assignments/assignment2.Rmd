@@ -1,0 +1,97 @@
+---
+# title: "essay, one-paged-note, homework"
+# subtitle: "subtitle"
+# author: "심민규 `mksim@seoultech.ac.kr`"
+# date: "Lastly updated on `r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    highlight: haddock
+    keep_tex: yes
+    includes:
+      in_header: latex_support/latex-topmatter_pdf.tex
+    # toc: yes # table of contents yes/no/True/False
+    # toc_depth: 2 # toc depth 1 or 2 recommended
+    number_sections: yes # yes/no/True/False
+  html_document:
+    toc: yes
+    toc_depth: '1'
+    df_print: paged
+monofont: Courier New # Consolas or Courier New
+smaller: yes
+classoption: a4paper # letter or a4paper
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=1.17}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+<!-- \begin{center} -->
+<!-- \vspace{100pt} -->
+<!-- \includegraphics[height=0.3in]{latex_support/logo_ds.png}  -->
+<!-- \end{center} -->
+
+\begin{center}
+\begin{large}
+Korea Electronics Show 2022
+\end{large}
+
+\begin{Large}
+\textbf{MetaVerse: Meet your MetaVerse}
+\end{Large}
+\end{center}
+
+
+One of the most interesting exhibitions in this year's Korea Electronics Show was Metaverse. The term has gained a lot of attention over the past months and the exhibits shed a little more light on what exactly the term Metaverse encompass, how does it look today and how it may look in the future.
+
+\vspace{3mm}
+
+\begin{large}
+\textbf{What exactly is the Metaverse?}
+\end{large}
+
+The Metaverse is a computer generated realm where interactions take place among humans and automated entities and comprises elements of augmented reality, mixed reality and virtual reality. It encompasses everything from realistic in game content to virtual education and retail, to holograms and VR hardware development.
+
+\vspace{3mm}
+\begin{large}
+\textbf{The MetaVerse exhibition at the KES 2022}
+\end{large}
+\underline{Content}
+
+Most content followed a video game style approach like exploring a virtual reconstruction of Seoul streets in first person or hyper realistic flight simulators. Realism was certainly the stand out factor. 
+
+
+\underline{Motion Capture \& Face Recognition}
+
+Amongst the most concurred exhibits was motion capture technology where visitors movements where virtually recreated in known video game characters. Advanced face recognition models capable of identifying people age range and advanced face tracking models were also on display. 
+
+
+\underline{Hardware}
+
+The strongest showing concerned hardware developments. Big companies like Samsung and LG displayed augmented and mixed reality appliances. However, the most impressive exhibits involved holograms. Holograms are one of the biggest selling points for the Metaverse and watching them in display still feels like being part of a sci-fi movie!
+
+```{r, out.height="25%", out.width="100%", fig.align="center"}
+knitr::include_graphics("capture2.png")
+```   
+\begin{center}
+\begin{small}
+\textbf{Figure 1.} \textbf{Left:} Animal holograms by KHOLO INC. \textbf{Right:} LG's mixed reality camping van.
+\end{small}
+\end{center}
+\vspace{5mm}
+
+The Metaverse exhibition at KES 2022 had some impressive exhibits showcasing current advances in virtual, mixed and augmented reality. Holograms and Motion Capture stood out illustrating how close those technologies are of becoming part of mainstream consumption. 
+
+\newpage
+
+```{r, echo=TRUE, results='hide'}
+"Written by Carlos Vintimilla"
+```
+
+
