@@ -14,3 +14,10 @@ and allows analysis to find the most important genes for a specific disease type
 ### R
 
 In the R directory there are all the assignments from the Data Visualization class as well as two separate data visualization scripts for the Flight and MPG datasets.
+
+![](R/Assignments/hist825.png)
+![](R/Assignments/usmap.png)
+
+### References
+
+Goh, K. I., Cusick, M. E., Valle, D., Childs, B., Vidal, M., & Barabási, A. L. (2007). The human disease network. Proceedings of the National Academy of Sciences, 104(21), 8685-8690.
