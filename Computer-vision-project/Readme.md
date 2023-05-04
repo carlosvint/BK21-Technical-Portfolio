@@ -3,7 +3,7 @@ In the SimCLR directory you will find the adapted implementation of SimCLR to be
 
 To pretrain a conformer model using SimCLR
 
-### Pre-Training conformer encoder:
+### pre-training conformer using SimCLR:
 Simply run the following to pre-train a ResNet encoder using SimCLR on the CIFAR-10 dataset:
 ```
 python main.py --dataset CIFAR10 --model conformer
@@ -14,13 +14,18 @@ The modified implementation is also able to run a linear evaluation and TSNE wit
 python linear_evaluation.py --model_path=. --epoch_num=100 --logistic_batch_size=32
 ```
 
+### fine-tuning conformer after SimCLR pretraining
 
 The conformer directory is modified to be able to fine-tune the model starting from the pretrained SimCLR model.
 
 
 I also show the feature maps of pretraining vs the original architecture:
 
+### feature maps for SimCLR pretrained model
+
 ![](Conformer/feature_maps_peacock_simclr.jpg)
+
+### feature maps for ResNET trained fully supervised way
 
 ![](Conformer/feature_maps_peacock_resnet.jpg)
 
