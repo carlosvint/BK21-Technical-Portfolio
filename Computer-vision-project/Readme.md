@@ -17,6 +17,7 @@ python linear_evaluation.py --model_path=. --epoch_num=100 --logistic_batch_size
 
 The conformer directory is modified to be able to fine-tune the model starting from the pretrained SimCLR model.
 
+
 I also show the feature maps of pretraining vs the original architecture:
 
 ![](Conformer/feature_maps_peacock_simclr.jpg)
