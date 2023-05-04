@@ -4,7 +4,7 @@ In the SimCLR directory you will find the adapted implementation of SimCLR to be
 To pretrain a conformer model using SimCLR
 
 ### pre-training conformer using SimCLR:
-Simply run the following to pre-train a ResNet encoder using SimCLR on the CIFAR-10 dataset:
+To pre-train a conformer encoder using SimCLR on the CIFAR-10 dataset:
 ```
 python main.py --dataset CIFAR10 --model conformer
 ```
